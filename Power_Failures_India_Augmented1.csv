@@ -1,0 +1,1201 @@
+Location,Urban/Rural,Weather,Grid Load (MW),Voltage Level (kV),Failure Type,Cause of Failure,Failure Occurred,Outage Duration (min),Failure Severity
+Hyderabad,Urban,Clear,361.0199507,132,Overload,Equipment Failure,0,0,None
+Delhi,Urban,Clear,302.9734689,66,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Extreme Heat,206.259423,132,Equipment Failure,Animal Interference,0,0,None
+Hyderabad,Rural,Clear,316.1350106,220,Line Tripping,Tree Falling on Line,0,0,None
+Delhi,Rural,Extreme Heat,936.2868678,66,Line Tripping,Tree Falling on Line,1,538,High
+Mumbai,Rural,Rain,378.9819401,220,Equipment Failure,Overload,0,0,None
+Kolkata,Rural,Rain,229.616138,132,Equipment Failure,Equipment Failure,0,0,None
+Chennai,Urban,Clear,219.1245641,132,Short Circuit,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,855.4769988,400,Short Circuit,Animal Interference,0,0,None
+Mumbai,Urban,Thunderstorm,887.044692,33,Short Circuit,Equipment Failure,0,0,None
+Kolkata,Urban,Extreme Heat,228.8594291,33,Overload,Animal Interference,1,547,High
+Chennai,Urban,Thunderstorm,237.9592232,66,Line Tripping,Equipment Failure,0,0,None
+Delhi,Urban,Clear,214.4241344,220,Short Circuit,Overload,0,0,None
+Hyderabad,Rural,Extreme Heat,303.0320236,11,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Rural,Clear,266.3132642,66,Transformer Failure,Equipment Failure,0,0,None
+Kolkata,Urban,Clear,1010.55289,11,Line Tripping,Equipment Failure,1,47,Low
+Hyderabad,Urban,Thunderstorm,254.6611217,132,Overload,Animal Interference,0,0,None
+Chennai,Urban,Clear,207.8970585,220,Short Circuit,Lightning Strike,0,0,None
+Chennai,Urban,Clear,292.4863327,132,Overload,Overload,0,0,None
+Kolkata,Rural,Clear,1274.959283,11,Equipment Failure,Lightning Strike,1,82,Low
+Mumbai,Urban,Fog,1125.710633,33,Transformer Failure,Lightning Strike,0,0,None
+Bangalore,Rural,Clear,373.2104488,33,Transformer Failure,Overload,0,0,None
+Hyderabad,Urban,Thunderstorm,323.283488,220,Line Tripping,Human Error,0,0,None
+Delhi,Urban,Rain,320.5762271,400,Line Tripping,Lightning Strike,0,0,None
+Bangalore,Urban,Clear,356.758432,66,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,231.2547729,11,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,220.64769,11,Transformer Failure,Lightning Strike,0,0,None
+Chennai,Urban,Fog,1015.337741,11,Line Tripping,Human Error,1,218,Medium
+Bangalore,Urban,Rain,271.6941119,220,Transformer Failure,Human Error,0,0,None
+Mumbai,Rural,Rain,1156.883764,400,Line Tripping,Lightning Strike,1,560,High
+Mumbai,Rural,Thunderstorm,1256.902979,11,Line Tripping,Animal Interference,0,0,None
+Bangalore,Rural,Fog,236.9627639,400,Equipment Failure,Human Error,0,0,None
+Bangalore,Rural,Thunderstorm,327.6772578,400,Line Tripping,Animal Interference,0,0,None
+Bangalore,Urban,Clear,1205.718358,33,Equipment Failure,Human Error,1,203,Medium
+Delhi,Rural,Thunderstorm,357.5034438,220,Transformer Failure,Overload,0,0,None
+Kolkata,Urban,Rain,222.0691766,66,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Extreme Heat,1341.500884,400,Line Tripping,Animal Interference,1,585,High
+Chennai,Rural,Clear,264.5111772,66,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Extreme Heat,226.0077359,220,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Extreme Cold,1004.618783,220,Equipment Failure,Animal Interference,1,331,High
+Mumbai,Urban,Extreme Cold,279.4382952,400,Overload,Animal Interference,1,12,Low
+Bangalore,Urban,Rain,354.2114381,400,Equipment Failure,Tree Falling on Line,0,0,None
+Chennai,Rural,Rain,1034.665719,132,Transformer Failure,Tree Falling on Line,1,591,High
+Mumbai,Rural,Clear,319.6609173,33,Overload,Animal Interference,0,0,None
+Mumbai,Urban,Fog,1140.53359,220,Overload,Human Error,0,0,None
+Chennai,Urban,Clear,219.9960036,400,Equipment Failure,Equipment Failure,0,0,None
+Bangalore,Rural,Clear,391.5577824,33,Line Tripping,Equipment Failure,0,0,None
+Hyderabad,Urban,Rain,284.7287987,132,Transformer Failure,Human Error,0,0,None
+Delhi,Urban,Rain,1054.337183,33,Overload,Overload,0,0,None
+Hyderabad,Urban,Clear,370.931429,11,Line Tripping,Human Error,0,0,None
+Mumbai,Urban,Fog,343.5947286,11,Short Circuit,Animal Interference,0,0,None
+Hyderabad,Rural,Clear,1009.332124,33,Transformer Failure,Tree Falling on Line,0,0,None
+Bangalore,Rural,Rain,1232.655184,66,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Thunderstorm,328.7966679,220,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Rain,930.7076001,400,Line Tripping,Overload,1,547,High
+Bangalore,Rural,Clear,243.9434613,132,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Rural,Rain,353.0147267,11,Line Tripping,Overload,0,0,None
+Delhi,Rural,Rain,277.7616447,11,Equipment Failure,Animal Interference,0,0,None
+Delhi,Rural,Rain,339.0153046,33,Short Circuit,Animal Interference,0,0,None
+Chennai,Urban,Clear,315.3937409,132,Overload,Lightning Strike,0,0,None
+Bangalore,Urban,Thunderstorm,778.9944441,220,Overload,Tree Falling on Line,0,0,None
+Bangalore,Rural,Extreme Cold,902.632345,33,Short Circuit,Human Error,0,0,None
+Kolkata,Urban,Clear,1104.163479,33,Overload,Human Error,0,0,None
+Bangalore,Rural,Rain,383.7540749,132,Transformer Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Extreme Heat,1203.244713,33,Transformer Failure,Overload,0,0,None
+Delhi,Rural,Thunderstorm,385.6076474,11,Equipment Failure,Tree Falling on Line,1,152,Medium
+Mumbai,Urban,Clear,1147.315812,400,Transformer Failure,Equipment Failure,0,0,None
+Delhi,Urban,Clear,208.1403069,11,Short Circuit,Overload,0,0,None
+Bangalore,Urban,Fog,1103.074369,220,Equipment Failure,Overload,0,0,None
+Kolkata,Urban,Rain,348.2769812,66,Overload,Lightning Strike,0,0,None
+Bangalore,Rural,Fog,241.6815634,66,Overload,Tree Falling on Line,0,0,None
+Bangalore,Rural,Clear,1238.970423,33,Short Circuit,Animal Interference,1,253,Medium
+Delhi,Urban,Thunderstorm,1155.275484,66,Overload,Tree Falling on Line,1,597,High
+Bangalore,Rural,Rain,874.3279526,11,Overload,Equipment Failure,0,0,None
+Hyderabad,Urban,Rain,271.3588093,400,Transformer Failure,Equipment Failure,0,0,None
+Delhi,Rural,Clear,313.3046421,66,Equipment Failure,Animal Interference,0,0,None
+Delhi,Rural,Clear,256.2245698,132,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Clear,371.3105267,66,Line Tripping,Lightning Strike,0,0,None
+Chennai,Rural,Clear,209.2007329,33,Short Circuit,Human Error,0,0,None
+Delhi,Urban,Clear,276.4962135,11,Equipment Failure,Animal Interference,0,0,None
+Hyderabad,Urban,Clear,816.2996181,400,Equipment Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Rain,265.3096225,132,Line Tripping,Overload,0,0,None
+Bangalore,Rural,Clear,276.6559164,66,Equipment Failure,Human Error,0,0,None
+Hyderabad,Rural,Clear,278.6349344,66,Equipment Failure,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,260.0721481,400,Short Circuit,Animal Interference,0,0,None
+Chennai,Rural,Extreme Heat,377.8337817,220,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Urban,Clear,393.584957,33,Overload,Equipment Failure,0,0,None
+Delhi,Urban,Clear,359.7491606,400,Equipment Failure,Tree Falling on Line,0,0,None
+Kolkata,Urban,Thunderstorm,270.4606258,66,Line Tripping,Human Error,1,70,Low
+Bangalore,Rural,Extreme Heat,364.7457494,132,Overload,Overload,0,0,None
+Delhi,Urban,Clear,274.5135209,220,Line Tripping,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,343.3293419,400,Short Circuit,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Rain,831.1047843,33,Overload,Overload,0,0,None
+Hyderabad,Urban,Thunderstorm,307.316661,400,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Urban,Clear,294.763214,400,Overload,Overload,0,0,None
+Bangalore,Urban,Clear,352.9815708,132,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Rain,303.0095402,11,Line Tripping,Animal Interference,0,0,None
+Chennai,Urban,Fog,358.4998139,33,Overload,Human Error,0,0,None
+Hyderabad,Urban,Clear,853.9489377,220,Transformer Failure,Overload,0,0,None
+Delhi,Urban,Rain,355.4513257,400,Transformer Failure,Animal Interference,0,0,None
+Bangalore,Rural,Rain,1121.384879,11,Overload,Overload,0,0,None
+Kolkata,Urban,Rain,347.3206706,11,Short Circuit,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,247.5348809,11,Line Tripping,Overload,0,0,None
+Bangalore,Urban,Clear,388.6661564,400,Transformer Failure,Human Error,0,0,None
+Mumbai,Urban,Clear,224.0808113,400,Short Circuit,Animal Interference,0,0,None
+Chennai,Urban,Thunderstorm,1224.470705,400,Equipment Failure,Equipment Failure,0,0,None
+Chennai,Urban,Clear,1243.521222,132,Overload,Overload,1,305,High
+Mumbai,Urban,Rain,392.2486039,11,Short Circuit,Equipment Failure,0,0,None
+Mumbai,Rural,Rain,911.5127695,220,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,215.1564824,132,Equipment Failure,Equipment Failure,0,0,None
+Delhi,Urban,Thunderstorm,947.2993607,33,Equipment Failure,Animal Interference,1,537,High
+Bangalore,Urban,Extreme Cold,363.4756892,132,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Fog,235.9737826,11,Short Circuit,Lightning Strike,0,0,None
+Hyderabad,Rural,Extreme Heat,298.759253,400,Equipment Failure,Tree Falling on Line,0,0,None
+Chennai,Rural,Clear,282.3557151,132,Line Tripping,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,855.5736446,132,Line Tripping,Equipment Failure,1,469,High
+Bangalore,Urban,Rain,249.4394554,220,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Urban,Clear,1321.700517,11,Short Circuit,Lightning Strike,0,0,None
+Mumbai,Rural,Thunderstorm,256.2118329,33,Transformer Failure,Animal Interference,0,0,None
+Delhi,Urban,Extreme Heat,1153.157703,66,Short Circuit,Tree Falling on Line,1,593,High
+Kolkata,Urban,Extreme Heat,1049.510231,33,Transformer Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Rain,311.9652977,33,Overload,Animal Interference,1,36,Low
+Hyderabad,Urban,Thunderstorm,338.5703101,11,Overload,Animal Interference,0,0,None
+Bangalore,Urban,Extreme Heat,968.2191827,11,Equipment Failure,Tree Falling on Line,1,194,Medium
+Delhi,Rural,Thunderstorm,375.1245777,400,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Urban,Clear,366.8835259,66,Line Tripping,Human Error,0,0,None
+Hyderabad,Urban,Fog,201.8018008,400,Overload,Human Error,0,0,None
+Kolkata,Urban,Thunderstorm,1055.402842,66,Overload,Human Error,0,0,None
+Hyderabad,Urban,Fog,335.068396,400,Equipment Failure,Human Error,0,0,None
+Hyderabad,Urban,Fog,284.2098307,400,Equipment Failure,Equipment Failure,0,0,None
+Mumbai,Rural,Extreme Cold,242.5096442,33,Line Tripping,Human Error,0,0,None
+Chennai,Urban,Thunderstorm,266.7952592,66,Short Circuit,Human Error,1,361,High
+Chennai,Urban,Clear,252.7655356,400,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Urban,Rain,372.242101,400,Line Tripping,Overload,0,0,None
+Kolkata,Urban,Fog,328.3670456,220,Equipment Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,284.3422404,220,Short Circuit,Lightning Strike,1,508,High
+Mumbai,Urban,Clear,244.6821557,400,Transformer Failure,Human Error,0,0,None
+Hyderabad,Rural,Extreme Cold,343.2427159,11,Transformer Failure,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,344.6166796,11,Equipment Failure,Tree Falling on Line,0,0,None
+Bangalore,Rural,Rain,975.579642,33,Overload,Overload,0,0,None
+Bangalore,Rural,Extreme Heat,1169.571095,220,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Rain,277.4516445,220,Overload,Animal Interference,0,0,None
+Hyderabad,Rural,Extreme Heat,1182.05282,33,Overload,Human Error,0,0,None
+Mumbai,Rural,Extreme Heat,244.4691414,11,Line Tripping,Human Error,0,0,None
+Kolkata,Urban,Rain,204.3298396,400,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,309.1592234,33,Transformer Failure,Equipment Failure,0,0,None
+Hyderabad,Urban,Rain,287.2581311,11,Short Circuit,Tree Falling on Line,0,0,None
+Bangalore,Urban,Clear,893.4871938,33,Short Circuit,Lightning Strike,1,597,High
+Mumbai,Rural,Clear,872.3938642,400,Transformer Failure,Overload,0,0,None
+Delhi,Urban,Clear,339.6284528,220,Transformer Failure,Equipment Failure,0,0,None
+Kolkata,Rural,Thunderstorm,344.7408378,220,Short Circuit,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,1003.758109,11,Overload,Animal Interference,1,534,High
+Kolkata,Urban,Extreme Heat,307.3434493,66,Overload,Human Error,0,0,None
+Chennai,Urban,Rain,311.9907558,33,Overload,Human Error,0,0,None
+Bangalore,Urban,Thunderstorm,353.8934171,400,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Fog,338.3413198,220,Short Circuit,Animal Interference,0,0,None
+Delhi,Rural,Clear,909.1382119,132,Equipment Failure,Lightning Strike,1,504,High
+Mumbai,Urban,Rain,214.3445638,11,Equipment Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Rain,289.2154021,11,Overload,Animal Interference,0,0,None
+Bangalore,Urban,Thunderstorm,225.5096576,132,Overload,Animal Interference,0,0,None
+Chennai,Urban,Rain,1019.946142,220,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Urban,Thunderstorm,996.8917383,11,Equipment Failure,Animal Interference,1,524,High
+Chennai,Urban,Clear,384.2801512,66,Short Circuit,Animal Interference,0,0,None
+Chennai,Rural,Clear,1045.833084,132,Short Circuit,Human Error,0,0,None
+Bangalore,Rural,Rain,254.1902065,11,Transformer Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Thunderstorm,319.3824019,132,Short Circuit,Animal Interference,0,0,None
+Delhi,Urban,Extreme Cold,352.9327148,400,Transformer Failure,Human Error,0,0,None
+Chennai,Rural,Thunderstorm,374.6018321,33,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Clear,301.1646956,11,Overload,Animal Interference,1,200,Medium
+Bangalore,Urban,Rain,1092.71509,11,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Rural,Clear,794.3735582,400,Line Tripping,Human Error,0,0,None
+Hyderabad,Urban,Extreme Heat,247.9513807,33,Short Circuit,Human Error,0,0,None
+Delhi,Urban,Rain,1047.84311,33,Transformer Failure,Overload,1,107,Low
+Delhi,Urban,Extreme Cold,343.7357402,132,Transformer Failure,Animal Interference,0,0,None
+Kolkata,Urban,Extreme Cold,390.2260708,400,Transformer Failure,Equipment Failure,0,0,None
+Chennai,Urban,Extreme Cold,221.3606605,400,Overload,Lightning Strike,0,0,None
+Delhi,Urban,Rain,391.639041,33,Short Circuit,Overload,1,529,High
+Hyderabad,Urban,Clear,389.6696629,220,Transformer Failure,Lightning Strike,0,0,None
+Kolkata,Urban,Fog,895.4056742,400,Line Tripping,Overload,0,0,None
+Hyderabad,Urban,Thunderstorm,360.2441537,400,Overload,Equipment Failure,0,0,None
+Chennai,Urban,Thunderstorm,1192.303036,220,Overload,Tree Falling on Line,0,0,None
+Delhi,Urban,Extreme Heat,396.6975892,66,Overload,Lightning Strike,0,0,None
+Delhi,Urban,Clear,1062.00963,33,Overload,Human Error,0,0,None
+Bangalore,Urban,Clear,1284.333779,220,Line Tripping,Animal Interference,0,0,None
+Bangalore,Urban,Fog,380.1622235,33,Transformer Failure,Tree Falling on Line,0,0,None
+Kolkata,Urban,Clear,1007.383286,33,Line Tripping,Lightning Strike,0,0,None
+Chennai,Urban,Clear,276.6575935,220,Transformer Failure,Human Error,0,0,None
+Hyderabad,Rural,Fog,916.413945,220,Line Tripping,Overload,0,0,None
+Bangalore,Rural,Clear,283.6455837,400,Short Circuit,Overload,0,0,None
+Hyderabad,Urban,Extreme Heat,1223.48626,11,Line Tripping,Lightning Strike,1,297,Medium
+Bangalore,Urban,Extreme Heat,368.9437945,220,Equipment Failure,Human Error,1,63,Low
+Mumbai,Urban,Thunderstorm,1066.757627,66,Transformer Failure,Overload,1,165,Medium
+Chennai,Rural,Thunderstorm,299.7256343,400,Transformer Failure,Human Error,0,0,None
+Chennai,Urban,Clear,1197.442422,11,Transformer Failure,Animal Interference,0,0,None
+Chennai,Urban,Clear,772.9110839,132,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Urban,Clear,238.3031049,220,Transformer Failure,Animal Interference,1,302,High
+Hyderabad,Urban,Clear,204.6233434,132,Transformer Failure,Human Error,1,411,High
+Hyderabad,Urban,Fog,260.978276,33,Line Tripping,Lightning Strike,0,0,None
+Mumbai,Urban,Rain,241.9491017,132,Line Tripping,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,203.2389003,132,Overload,Equipment Failure,0,0,None
+Chennai,Urban,Clear,354.9966181,11,Transformer Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Fog,278.918241,11,Overload,Equipment Failure,0,0,None
+Chennai,Urban,Clear,368.322255,11,Short Circuit,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Fog,216.4305114,66,Transformer Failure,Equipment Failure,0,0,None
+Chennai,Urban,Thunderstorm,311.5870521,220,Transformer Failure,Tree Falling on Line,0,0,None
+Bangalore,Urban,Rain,344.9045988,132,Short Circuit,Human Error,0,0,None
+Mumbai,Urban,Clear,373.0685849,33,Short Circuit,Animal Interference,0,0,None
+Delhi,Urban,Clear,207.8033109,66,Equipment Failure,Overload,0,0,None
+Delhi,Rural,Fog,295.4941699,11,Overload,Equipment Failure,0,0,None
+Chennai,Urban,Thunderstorm,292.9038324,132,Equipment Failure,Animal Interference,1,444,High
+Chennai,Urban,Extreme Heat,1221.614788,33,Equipment Failure,Lightning Strike,1,242,Medium
+Kolkata,Urban,Rain,1264.508746,66,Short Circuit,Equipment Failure,0,0,None
+Chennai,Urban,Extreme Cold,353.323345,11,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Rain,961.8288205,132,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Urban,Extreme Heat,258.3760145,132,Transformer Failure,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,366.5325656,11,Overload,Human Error,0,0,None
+Hyderabad,Rural,Clear,1027.66993,132,Short Circuit,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,321.1278605,11,Overload,Tree Falling on Line,0,0,None
+Bangalore,Rural,Extreme Heat,392.2026555,400,Line Tripping,Equipment Failure,0,0,None
+Mumbai,Urban,Extreme Heat,380.4418251,66,Transformer Failure,Human Error,0,0,None
+Delhi,Urban,Extreme Heat,911.0484048,400,Equipment Failure,Tree Falling on Line,0,0,None
+Bangalore,Urban,Extreme Heat,373.4172881,220,Overload,Animal Interference,1,288,Medium
+Kolkata,Rural,Rain,379.0569801,400,Transformer Failure,Human Error,0,0,None
+Bangalore,Urban,Extreme Heat,1214.561189,33,Line Tripping,Animal Interference,1,52,Low
+Bangalore,Urban,Clear,1077.068645,33,Overload,Human Error,0,0,None
+Hyderabad,Urban,Clear,259.8447062,33,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Rain,309.9606903,400,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Urban,Clear,993.1807331,66,Transformer Failure,Overload,0,0,None
+Hyderabad,Urban,Clear,341.9041095,33,Transformer Failure,Human Error,0,0,None
+Kolkata,Urban,Thunderstorm,200.4569833,132,Line Tripping,Lightning Strike,0,0,None
+Hyderabad,Urban,Extreme Cold,391.8350652,11,Overload,Equipment Failure,0,0,None
+Chennai,Urban,Extreme Heat,212.9605697,220,Overload,Equipment Failure,0,0,None
+Hyderabad,Urban,Thunderstorm,1093.40051,220,Short Circuit,Tree Falling on Line,1,43,Low
+Hyderabad,Urban,Extreme Heat,256.1736039,400,Equipment Failure,Equipment Failure,1,288,Medium
+Hyderabad,Rural,Clear,350.8924004,400,Short Circuit,Human Error,1,348,High
+Mumbai,Urban,Thunderstorm,1170.759904,66,Overload,Overload,0,0,None
+Chennai,Rural,Thunderstorm,810.1779112,400,Line Tripping,Equipment Failure,0,0,None
+Hyderabad,Urban,Clear,213.2481281,11,Short Circuit,Human Error,0,0,None
+Kolkata,Urban,Rain,1040.87137,132,Overload,Tree Falling on Line,1,322,High
+Delhi,Urban,Thunderstorm,325.5071272,33,Transformer Failure,Lightning Strike,0,0,None
+Mumbai,Urban,Rain,244.7066701,11,Transformer Failure,Lightning Strike,1,555,High
+Bangalore,Urban,Extreme Heat,245.500652,11,Transformer Failure,Lightning Strike,1,329,High
+Bangalore,Rural,Fog,957.0684306,11,Overload,Overload,1,512,High
+Mumbai,Rural,Rain,939.6620638,132,Overload,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,1251.791262,220,Line Tripping,Tree Falling on Line,1,357,High
+Mumbai,Urban,Clear,1033.574894,400,Overload,Human Error,1,463,High
+Hyderabad,Urban,Rain,248.9914128,33,Overload,Human Error,0,0,None
+Kolkata,Rural,Thunderstorm,1227.630089,400,Transformer Failure,Human Error,1,563,High
+Mumbai,Urban,Rain,993.5593472,132,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Urban,Extreme Heat,1215.981936,400,Overload,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Clear,1146.121731,33,Short Circuit,Human Error,1,594,High
+Kolkata,Urban,Clear,398.2419601,132,Line Tripping,Lightning Strike,0,0,None
+Mumbai,Urban,Rain,1132.72021,66,Overload,Equipment Failure,1,309,High
+Hyderabad,Rural,Thunderstorm,239.8648002,220,Transformer Failure,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Clear,1154.021568,220,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Clear,315.1133301,66,Line Tripping,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,273.1956638,11,Line Tripping,Overload,0,0,None
+Delhi,Rural,Rain,263.4250137,33,Transformer Failure,Overload,0,0,None
+Kolkata,Rural,Fog,244.3219647,33,Equipment Failure,Lightning Strike,0,0,None
+Mumbai,Urban,Rain,207.1600948,66,Transformer Failure,Tree Falling on Line,1,25,Low
+Delhi,Urban,Rain,329.9928996,11,Equipment Failure,Equipment Failure,0,0,None
+Kolkata,Rural,Clear,203.8842737,66,Line Tripping,Animal Interference,0,0,None
+Delhi,Urban,Clear,366.95688,132,Transformer Failure,Overload,0,0,None
+Chennai,Rural,Extreme Heat,1121.102407,132,Line Tripping,Human Error,1,72,Low
+Hyderabad,Rural,Rain,266.3957364,400,Transformer Failure,Human Error,0,0,None
+Mumbai,Urban,Clear,890.4489798,33,Line Tripping,Human Error,0,0,None
+Chennai,Rural,Clear,1074.860669,66,Transformer Failure,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,882.7349072,66,Equipment Failure,Animal Interference,1,215,Medium
+Mumbai,Urban,Fog,328.4908858,11,Overload,Equipment Failure,0,0,None
+Mumbai,Urban,Thunderstorm,946.6039503,132,Equipment Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,227.656398,11,Overload,Human Error,0,0,None
+Hyderabad,Urban,Rain,325.95831,66,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Clear,848.6459592,66,Short Circuit,Equipment Failure,1,347,High
+Mumbai,Urban,Clear,268.0391367,33,Equipment Failure,Human Error,1,485,High
+Mumbai,Rural,Thunderstorm,231.4754831,400,Line Tripping,Equipment Failure,0,0,None
+Mumbai,Rural,Extreme Cold,242.4312424,33,Equipment Failure,Tree Falling on Line,0,0,None
+Kolkata,Urban,Fog,394.9529179,11,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Urban,Thunderstorm,329.225892,132,Short Circuit,Lightning Strike,0,0,None
+Chennai,Rural,Clear,335.9027288,400,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Rural,Clear,997.1256274,220,Overload,Overload,1,517,High
+Bangalore,Rural,Thunderstorm,1134.165715,33,Transformer Failure,Human Error,0,0,None
+Kolkata,Urban,Extreme Heat,235.1278565,400,Equipment Failure,Tree Falling on Line,0,0,None
+Mumbai,Urban,Thunderstorm,392.4337214,220,Short Circuit,Equipment Failure,0,0,None
+Chennai,Rural,Rain,204.6126751,33,Line Tripping,Human Error,0,0,None
+Delhi,Urban,Thunderstorm,330.2361095,33,Overload,Lightning Strike,0,0,None
+Bangalore,Urban,Clear,275.9570914,66,Overload,Overload,0,0,None
+Chennai,Urban,Clear,387.8283371,220,Short Circuit,Overload,0,0,None
+Kolkata,Urban,Clear,1377.007554,400,Transformer Failure,Animal Interference,0,0,None
+Hyderabad,Urban,Clear,268.1733187,33,Line Tripping,Tree Falling on Line,0,0,None
+Kolkata,Rural,Clear,205.3074802,33,Equipment Failure,Equipment Failure,0,0,None
+Kolkata,Rural,Extreme Heat,1118.667864,66,Line Tripping,Human Error,0,0,None
+Kolkata,Urban,Thunderstorm,1059.624609,11,Transformer Failure,Animal Interference,0,0,None
+Hyderabad,Rural,Rain,334.7599256,400,Equipment Failure,Overload,0,0,None
+Mumbai,Rural,Clear,264.4897387,11,Line Tripping,Human Error,0,0,None
+Bangalore,Rural,Clear,258.7434633,400,Line Tripping,Animal Interference,0,0,None
+Bangalore,Urban,Thunderstorm,883.2742534,220,Transformer Failure,Human Error,0,0,None
+Kolkata,Rural,Rain,917.8289615,220,Line Tripping,Equipment Failure,0,0,None
+Delhi,Urban,Rain,1115.782185,11,Line Tripping,Tree Falling on Line,0,0,None
+Mumbai,Urban,Extreme Heat,281.4397005,132,Line Tripping,Tree Falling on Line,0,0,None
+Bangalore,Urban,Fog,1092.520702,66,Equipment Failure,Lightning Strike,1,110,Low
+Kolkata,Rural,Clear,1188.759778,66,Overload,Equipment Failure,1,559,High
+Delhi,Urban,Rain,259.1271355,33,Equipment Failure,Human Error,0,0,None
+Chennai,Urban,Rain,388.1785396,11,Line Tripping,Overload,0,0,None
+Chennai,Urban,Clear,219.7890357,400,Overload,Lightning Strike,0,0,None
+Kolkata,Urban,Thunderstorm,1153.093746,220,Equipment Failure,Equipment Failure,1,398,High
+Hyderabad,Urban,Clear,314.7410735,11,Equipment Failure,Animal Interference,0,0,None
+Chennai,Urban,Extreme Heat,1091.441252,400,Transformer Failure,Overload,0,0,None
+Mumbai,Urban,Clear,368.7458068,132,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Urban,Thunderstorm,213.0410081,66,Short Circuit,Animal Interference,0,0,None
+Mumbai,Urban,Rain,315.8052933,11,Equipment Failure,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,1090.43229,11,Line Tripping,Tree Falling on Line,0,0,None
+Chennai,Urban,Clear,317.7277776,11,Equipment Failure,Overload,0,0,None
+Mumbai,Urban,Rain,1314.603721,400,Line Tripping,Animal Interference,0,0,None
+Bangalore,Rural,Clear,242.3936963,220,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,1256.681438,11,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Rain,1215.245891,132,Transformer Failure,Animal Interference,1,95,Low
+Chennai,Urban,Clear,337.3455623,220,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Thunderstorm,1146.405787,11,Short Circuit,Equipment Failure,1,157,Medium
+Mumbai,Urban,Extreme Heat,219.5011519,66,Short Circuit,Animal Interference,1,561,High
+Hyderabad,Urban,Clear,984.5569348,11,Equipment Failure,Overload,0,0,None
+Kolkata,Urban,Thunderstorm,358.5500555,400,Equipment Failure,Lightning Strike,1,35,Low
+Kolkata,Urban,Thunderstorm,251.0548319,66,Transformer Failure,Equipment Failure,1,555,High
+Delhi,Urban,Clear,214.4190574,132,Transformer Failure,Equipment Failure,0,0,None
+Delhi,Urban,Clear,1035.064847,220,Line Tripping,Human Error,1,299,Medium
+Delhi,Rural,Rain,367.0509631,33,Short Circuit,Tree Falling on Line,0,0,None
+Bangalore,Rural,Thunderstorm,1206.194847,400,Transformer Failure,Animal Interference,1,496,High
+Delhi,Urban,Rain,1060.616598,11,Line Tripping,Overload,0,0,None
+Hyderabad,Urban,Thunderstorm,361.3383946,66,Transformer Failure,Human Error,1,199,Medium
+Mumbai,Urban,Fog,288.4722509,400,Overload,Equipment Failure,0,0,None
+Bangalore,Rural,Rain,313.3462979,33,Overload,Overload,0,0,None
+Delhi,Urban,Extreme Heat,1248.768095,220,Equipment Failure,Overload,1,27,Low
+Delhi,Urban,Thunderstorm,924.6067951,66,Equipment Failure,Equipment Failure,0,0,None
+Delhi,Urban,Extreme Heat,962.2159082,132,Line Tripping,Tree Falling on Line,1,556,High
+Chennai,Urban,Thunderstorm,229.4692765,220,Line Tripping,Overload,0,0,None
+Hyderabad,Urban,Rain,364.745522,66,Short Circuit,Equipment Failure,0,0,None
+Chennai,Urban,Rain,327.6185733,66,Line Tripping,Tree Falling on Line,0,0,None
+Chennai,Rural,Clear,248.4468625,400,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Clear,257.5351525,66,Overload,Tree Falling on Line,1,521,High
+Kolkata,Urban,Clear,370.9370143,132,Overload,Equipment Failure,0,0,None
+Kolkata,Urban,Rain,270.2058962,132,Overload,Equipment Failure,0,0,None
+Bangalore,Urban,Extreme Heat,1236.385322,33,Transformer Failure,Overload,1,93,Low
+Chennai,Urban,Fog,328.7808504,400,Transformer Failure,Overload,0,0,None
+Hyderabad,Urban,Clear,299.2619482,11,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Rain,350.9990573,132,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Thunderstorm,1051.296777,220,Transformer Failure,Lightning Strike,1,37,Low
+Delhi,Urban,Thunderstorm,316.8576873,33,Line Tripping,Lightning Strike,0,0,None
+Chennai,Urban,Rain,218.010298,66,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Rain,308.8443008,400,Overload,Lightning Strike,0,0,None
+Chennai,Urban,Clear,257.4340983,400,Overload,Overload,1,448,High
+Bangalore,Urban,Extreme Heat,372.3066059,66,Short Circuit,Tree Falling on Line,0,0,None
+Bangalore,Urban,Clear,374.3870425,400,Line Tripping,Overload,0,0,None
+Hyderabad,Urban,Extreme Cold,212.314132,132,Equipment Failure,Lightning Strike,0,0,None
+Chennai,Urban,Extreme Heat,226.2875436,132,Short Circuit,Overload,1,21,Low
+Hyderabad,Rural,Extreme Heat,213.5696006,132,Line Tripping,Animal Interference,0,0,None
+Chennai,Urban,Rain,214.5789283,220,Short Circuit,Animal Interference,0,0,None
+Hyderabad,Urban,Thunderstorm,1165.574252,220,Equipment Failure,Tree Falling on Line,1,300,High
+Chennai,Urban,Rain,393.7834892,66,Overload,Overload,0,0,None
+Kolkata,Urban,Extreme Heat,1131.635114,400,Short Circuit,Overload,0,0,None
+Delhi,Urban,Fog,374.7387312,400,Line Tripping,Animal Interference,0,0,None
+Chennai,Urban,Extreme Cold,1222.278134,33,Overload,Equipment Failure,1,179,Medium
+Delhi,Urban,Thunderstorm,1039.232296,66,Short Circuit,Tree Falling on Line,1,379,High
+Kolkata,Urban,Clear,379.9887619,220,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Rain,1195.837492,400,Short Circuit,Overload,0,0,None
+Kolkata,Urban,Fog,357.4761386,66,Short Circuit,Human Error,0,0,None
+Delhi,Urban,Thunderstorm,952.2171729,11,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Rural,Clear,984.3233584,220,Equipment Failure,Overload,0,0,None
+Bangalore,Urban,Rain,864.2075152,220,Short Circuit,Equipment Failure,0,0,None
+Hyderabad,Urban,Rain,918.4062264,220,Equipment Failure,Animal Interference,1,245,Medium
+Delhi,Urban,Clear,914.9236819,66,Line Tripping,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,1064.252332,220,Equipment Failure,Animal Interference,0,0,None
+Mumbai,Urban,Thunderstorm,226.4925405,66,Transformer Failure,Human Error,0,0,None
+Chennai,Rural,Extreme Heat,922.5892766,33,Line Tripping,Lightning Strike,0,0,None
+Kolkata,Urban,Rain,1285.498371,33,Overload,Overload,0,0,None
+Hyderabad,Urban,Thunderstorm,396.3424781,400,Overload,Equipment Failure,0,0,None
+Hyderabad,Urban,Fog,321.6010114,33,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Urban,Thunderstorm,289.5197462,66,Line Tripping,Human Error,1,307,High
+Mumbai,Rural,Clear,310.0953015,132,Short Circuit,Tree Falling on Line,0,0,None
+Bangalore,Urban,Clear,303.6626348,400,Line Tripping,Overload,0,0,None
+Delhi,Urban,Rain,257.3904683,33,Transformer Failure,Tree Falling on Line,0,0,None
+Mumbai,Urban,Rain,270.8116727,66,Transformer Failure,Lightning Strike,1,403,High
+Delhi,Rural,Clear,1061.419069,220,Line Tripping,Equipment Failure,0,0,None
+Delhi,Urban,Rain,330.6458657,33,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Rain,1332.019204,132,Equipment Failure,Human Error,0,0,None
+Chennai,Urban,Clear,325.67125,400,Overload,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,940.6870982,400,Overload,Animal Interference,0,0,None
+Kolkata,Rural,Clear,366.4917871,220,Short Circuit,Overload,0,0,None
+Bangalore,Urban,Clear,395.4622563,220,Transformer Failure,Tree Falling on Line,0,0,None
+Mumbai,Urban,Rain,1059.448224,11,Short Circuit,Equipment Failure,1,241,Medium
+Delhi,Urban,Fog,262.5205653,400,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Rain,235.5458525,220,Equipment Failure,Animal Interference,0,0,None
+Delhi,Urban,Extreme Heat,289.1763883,33,Overload,Equipment Failure,1,567,High
+Delhi,Urban,Rain,259.2669212,132,Equipment Failure,Lightning Strike,0,0,None
+Chennai,Urban,Rain,958.4953991,66,Line Tripping,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,350.9137399,220,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Rural,Clear,341.1934962,132,Line Tripping,Animal Interference,1,142,Medium
+Kolkata,Urban,Extreme Heat,339.3410313,400,Transformer Failure,Animal Interference,1,590,High
+Delhi,Rural,Clear,282.1790136,33,Short Circuit,Lightning Strike,0,0,None
+Kolkata,Urban,Extreme Cold,387.508788,33,Transformer Failure,Human Error,0,0,None
+Delhi,Urban,Thunderstorm,1147.339885,220,Transformer Failure,Lightning Strike,1,396,High
+Hyderabad,Urban,Rain,1274.531468,220,Transformer Failure,Human Error,0,0,None
+Chennai,Rural,Rain,943.7438598,220,Short Circuit,Equipment Failure,1,193,Medium
+Mumbai,Rural,Clear,371.3825308,66,Short Circuit,Overload,1,593,High
+Hyderabad,Urban,Thunderstorm,242.2922883,33,Transformer Failure,Lightning Strike,1,571,High
+Delhi,Urban,Rain,239.2530977,11,Short Circuit,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,293.866079,33,Line Tripping,Tree Falling on Line,0,0,None
+Chennai,Urban,Thunderstorm,1221.237264,33,Transformer Failure,Human Error,1,496,High
+Chennai,Rural,Clear,1133.844976,220,Line Tripping,Overload,0,0,None
+Bangalore,Urban,Thunderstorm,264.8099086,220,Short Circuit,Human Error,1,567,High
+Chennai,Rural,Rain,368.8190656,132,Line Tripping,Animal Interference,0,0,None
+Kolkata,Urban,Rain,1213.740577,400,Equipment Failure,Animal Interference,1,564,High
+Bangalore,Urban,Clear,376.9556511,220,Overload,Tree Falling on Line,0,0,None
+Chennai,Urban,Rain,365.6048008,132,Short Circuit,Overload,0,0,None
+Bangalore,Urban,Clear,991.6720373,33,Equipment Failure,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,388.7400611,11,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,993.6137918,220,Overload,Overload,0,0,None
+Chennai,Rural,Rain,358.7520439,66,Overload,Tree Falling on Line,1,139,Medium
+Chennai,Urban,Clear,240.2221604,400,Short Circuit,Tree Falling on Line,0,0,None
+Kolkata,Urban,Fog,366.8006489,220,Equipment Failure,Tree Falling on Line,1,465,High
+Delhi,Urban,Rain,939.4483612,33,Short Circuit,Lightning Strike,1,333,High
+Mumbai,Urban,Clear,270.9380357,11,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Rural,Thunderstorm,1132.185359,11,Line Tripping,Animal Interference,1,359,High
+Mumbai,Urban,Clear,352.9907677,33,Equipment Failure,Lightning Strike,0,0,None
+Chennai,Rural,Extreme Cold,241.8259551,220,Transformer Failure,Tree Falling on Line,0,0,None
+Mumbai,Urban,Thunderstorm,355.0861167,11,Line Tripping,Human Error,0,0,None
+Delhi,Urban,Clear,1079.450348,220,Overload,Human Error,0,0,None
+Delhi,Urban,Thunderstorm,394.1306145,132,Equipment Failure,Human Error,0,0,None
+Delhi,Rural,Clear,319.0065356,66,Line Tripping,Tree Falling on Line,0,0,None
+Mumbai,Urban,Clear,297.2742504,220,Short Circuit,Overload,0,0,None
+Kolkata,Rural,Extreme Heat,303.4486053,400,Equipment Failure,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Rain,817.4769618,220,Transformer Failure,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,324.4535766,132,Equipment Failure,Overload,0,0,None
+Bangalore,Urban,Extreme Heat,345.6090554,66,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,1065.76091,220,Line Tripping,Equipment Failure,1,395,High
+Hyderabad,Urban,Rain,367.5396918,11,Equipment Failure,Equipment Failure,0,0,None
+Chennai,Urban,Clear,211.518687,220,Equipment Failure,Overload,0,0,None
+Chennai,Urban,Fog,308.4034274,400,Equipment Failure,Equipment Failure,0,0,None
+Kolkata,Urban,Thunderstorm,212.9773325,66,Overload,Animal Interference,1,567,High
+Kolkata,Urban,Extreme Heat,353.9194257,66,Line Tripping,Animal Interference,1,572,High
+Mumbai,Rural,Clear,1068.545038,33,Equipment Failure,Human Error,0,0,None
+Mumbai,Rural,Extreme Heat,1272.952514,33,Equipment Failure,Overload,0,0,None
+Delhi,Urban,Clear,1265.560497,33,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Extreme Heat,805.1220148,132,Overload,Tree Falling on Line,1,374,High
+Hyderabad,Urban,Extreme Heat,787.9414282,33,Equipment Failure,Human Error,0,0,None
+Hyderabad,Urban,Clear,285.7705455,33,Transformer Failure,Human Error,0,0,None
+Hyderabad,Urban,Thunderstorm,216.8494736,400,Line Tripping,Overload,0,0,None
+Hyderabad,Rural,Clear,297.0324845,220,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Rural,Rain,1087.975527,132,Transformer Failure,Overload,0,0,None
+Chennai,Urban,Clear,275.5009095,132,Short Circuit,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,264.4606937,66,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Clear,399.7704454,220,Short Circuit,Equipment Failure,0,0,None
+Hyderabad,Rural,Clear,1139.90625,33,Overload,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,264.3295899,66,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Rain,887.8853984,66,Overload,Overload,0,0,None
+Mumbai,Rural,Rain,217.1076463,220,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,310.9277919,33,Overload,Equipment Failure,0,0,None
+Kolkata,Rural,Extreme Heat,305.7610411,220,Line Tripping,Equipment Failure,0,0,None
+Chennai,Urban,Clear,314.1082999,33,Short Circuit,Lightning Strike,0,0,None
+Delhi,Urban,Rain,1004.286517,132,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Extreme Cold,203.8767719,33,Equipment Failure,Overload,0,0,None
+Bangalore,Urban,Thunderstorm,322.0310945,400,Overload,Animal Interference,0,0,None
+Hyderabad,Urban,Rain,323.2640268,132,Short Circuit,Overload,0,0,None
+Delhi,Urban,Fog,390.5989924,33,Transformer Failure,Overload,0,0,None
+Kolkata,Rural,Clear,881.0086205,132,Short Circuit,Lightning Strike,0,0,None
+Kolkata,Urban,Fog,887.2143428,11,Transformer Failure,Human Error,0,0,None
+Mumbai,Urban,Thunderstorm,229.4689363,33,Transformer Failure,Equipment Failure,0,0,None
+Chennai,Rural,Clear,288.3025674,220,Equipment Failure,Tree Falling on Line,0,0,None
+Bangalore,Rural,Clear,280.7031284,66,Line Tripping,Animal Interference,0,0,None
+Mumbai,Urban,Clear,279.1821546,33,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Thunderstorm,1075.359017,400,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,949.0894671,400,Equipment Failure,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Fog,251.4483157,400,Equipment Failure,Lightning Strike,0,0,None
+Kolkata,Rural,Clear,258.8496803,11,Overload,Animal Interference,0,0,None
+Hyderabad,Urban,Fog,316.1820717,33,Overload,Tree Falling on Line,0,0,None
+Bangalore,Urban,Clear,320.2765882,400,Line Tripping,Human Error,0,0,None
+Kolkata,Urban,Fog,223.5550095,66,Short Circuit,Animal Interference,0,0,None
+Hyderabad,Urban,Clear,315.1795764,220,Transformer Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Thunderstorm,1119.2857,220,Short Circuit,Overload,1,146,Medium
+Delhi,Urban,Clear,1095.450508,220,Overload,Animal Interference,0,0,None
+Delhi,Rural,Thunderstorm,374.300526,33,Transformer Failure,Animal Interference,0,0,None
+Chennai,Urban,Thunderstorm,276.8338311,11,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Extreme Heat,345.3076429,132,Overload,Overload,0,0,None
+Mumbai,Rural,Clear,347.3970831,66,Transformer Failure,Human Error,0,0,None
+Kolkata,Rural,Rain,261.1017133,132,Line Tripping,Tree Falling on Line,0,0,None
+Chennai,Urban,Rain,275.6925791,132,Line Tripping,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,876.1112916,66,Equipment Failure,Equipment Failure,0,0,None
+Chennai,Urban,Clear,287.2915565,11,Overload,Equipment Failure,0,0,None
+Kolkata,Urban,Rain,992.718247,66,Equipment Failure,Lightning Strike,1,464,High
+Kolkata,Urban,Fog,1168.059626,33,Short Circuit,Tree Falling on Line,1,118,Low
+Delhi,Urban,Thunderstorm,941.7900778,400,Equipment Failure,Tree Falling on Line,0,0,None
+Mumbai,Rural,Clear,1007.138832,11,Short Circuit,Equipment Failure,0,0,None
+Kolkata,Urban,Clear,354.2353171,132,Equipment Failure,Equipment Failure,1,491,High
+Kolkata,Urban,Thunderstorm,257.2611386,33,Line Tripping,Human Error,1,420,High
+Delhi,Rural,Fog,338.0898145,220,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Extreme Heat,291.7755242,33,Short Circuit,Animal Interference,0,0,None
+Delhi,Urban,Clear,315.1044986,33,Equipment Failure,Animal Interference,0,0,None
+Mumbai,Rural,Clear,1263.37141,400,Equipment Failure,Equipment Failure,1,479,High
+Mumbai,Rural,Thunderstorm,254.5197366,132,Equipment Failure,Animal Interference,0,0,None
+Hyderabad,Urban,Rain,300.3539283,220,Equipment Failure,Tree Falling on Line,0,0,None
+Kolkata,Urban,Rain,328.0228334,400,Transformer Failure,Overload,0,0,None
+Delhi,Urban,Clear,362.2750034,220,Line Tripping,Tree Falling on Line,0,0,None
+Mumbai,Urban,Thunderstorm,370.9696041,33,Line Tripping,Overload,0,0,None
+Kolkata,Urban,Fog,311.7844577,11,Short Circuit,Human Error,0,0,None
+Bangalore,Rural,Clear,1208.038763,66,Overload,Equipment Failure,0,0,None
+Mumbai,Urban,Rain,215.9369773,11,Transformer Failure,Equipment Failure,0,0,None
+Delhi,Urban,Rain,381.2649257,220,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Urban,Rain,229.7492787,132,Transformer Failure,Human Error,0,0,None
+Bangalore,Rural,Fog,1086.494217,400,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Clear,256.380774,11,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,335.6474804,33,Overload,Lightning Strike,0,0,None
+Mumbai,Urban,Rain,221.4652107,132,Overload,Overload,1,576,High
+Mumbai,Urban,Clear,831.3264223,66,Equipment Failure,Human Error,0,0,None
+Hyderabad,Urban,Extreme Heat,342.179553,33,Overload,Equipment Failure,0,0,None
+Delhi,Urban,Rain,214.2948156,66,Short Circuit,Lightning Strike,0,0,None
+Delhi,Urban,Clear,204.9519704,400,Line Tripping,Animal Interference,0,0,None
+Chennai,Rural,Rain,365.6408629,11,Short Circuit,Human Error,0,0,None
+Kolkata,Rural,Rain,229.647876,220,Transformer Failure,Lightning Strike,0,0,None
+Bangalore,Rural,Rain,230.1301267,220,Equipment Failure,Equipment Failure,0,0,None
+Delhi,Urban,Clear,211.746327,132,Short Circuit,Tree Falling on Line,0,0,None
+Mumbai,Urban,Extreme Heat,282.3083466,33,Short Circuit,Tree Falling on Line,0,0,None
+Delhi,Rural,Extreme Heat,286.2239419,132,Equipment Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Clear,1027.84676,66,Short Circuit,Human Error,0,0,None
+Kolkata,Urban,Extreme Heat,393.3226869,33,Line Tripping,Animal Interference,0,0,None
+Hyderabad,Urban,Clear,1246.702811,400,Overload,Overload,1,288,Medium
+Mumbai,Urban,Clear,345.1810288,132,Overload,Lightning Strike,0,0,None
+Chennai,Urban,Fog,277.9213408,132,Equipment Failure,Overload,1,448,High
+Delhi,Urban,Clear,381.3185163,400,Short Circuit,Equipment Failure,0,0,None
+Bangalore,Rural,Rain,288.3847091,33,Short Circuit,Tree Falling on Line,0,0,None
+Mumbai,Urban,Extreme Heat,372.2707912,400,Transformer Failure,Overload,1,60,Low
+Delhi,Rural,Clear,286.4918769,33,Line Tripping,Lightning Strike,0,0,None
+Delhi,Urban,Thunderstorm,251.5246338,220,Overload,Overload,1,306,High
+Mumbai,Rural,Rain,1090.493819,33,Short Circuit,Overload,1,25,Low
+Chennai,Rural,Clear,305.3600771,220,Short Circuit,Human Error,0,0,None
+Kolkata,Urban,Clear,1331.85014,66,Transformer Failure,Overload,0,0,None
+Hyderabad,Urban,Clear,331.2511342,132,Short Circuit,Equipment Failure,0,0,None
+Chennai,Rural,Rain,212.7677446,400,Transformer Failure,Animal Interference,0,0,None
+Bangalore,Rural,Extreme Heat,265.3035947,33,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Extreme Heat,316.720182,220,Short Circuit,Lightning Strike,0,0,None
+Hyderabad,Rural,Thunderstorm,749.660417,132,Transformer Failure,Lightning Strike,0,0,None
+Kolkata,Rural,Rain,1024.414887,132,Equipment Failure,Overload,0,0,None
+Delhi,Urban,Thunderstorm,840.5953322,11,Equipment Failure,Human Error,1,592,High
+Delhi,Urban,Clear,204.275002,11,Transformer Failure,Equipment Failure,0,0,None
+Kolkata,Urban,Clear,241.2074018,400,Transformer Failure,Lightning Strike,0,0,None
+Kolkata,Rural,Clear,376.6467555,400,Equipment Failure,Overload,1,257,Medium
+Chennai,Urban,Extreme Heat,875.4599707,400,Line Tripping,Human Error,1,532,High
+Kolkata,Urban,Extreme Cold,257.2614887,220,Equipment Failure,Overload,1,58,Low
+Mumbai,Urban,Clear,984.9676743,11,Equipment Failure,Animal Interference,0,0,None
+Hyderabad,Urban,Extreme Heat,1229.963674,11,Overload,Human Error,1,218,Medium
+Mumbai,Urban,Thunderstorm,920.9507147,220,Transformer Failure,Human Error,1,337,High
+Kolkata,Rural,Fog,1045.764979,66,Equipment Failure,Tree Falling on Line,1,221,Medium
+Hyderabad,Rural,Clear,1095.628068,400,Line Tripping,Animal Interference,0,0,None
+Kolkata,Rural,Clear,391.1885666,11,Line Tripping,Overload,0,0,None
+Chennai,Urban,Clear,230.0907356,11,Short Circuit,Lightning Strike,0,0,None
+Bangalore,Rural,Extreme Cold,987.1237739,66,Overload,Equipment Failure,0,0,None
+Chennai,Rural,Extreme Cold,320.8190508,11,Transformer Failure,Lightning Strike,1,578,High
+Bangalore,Urban,Rain,261.7982494,132,Short Circuit,Equipment Failure,0,0,None
+Kolkata,Rural,Thunderstorm,209.4583499,220,Equipment Failure,Equipment Failure,0,0,None
+Bangalore,Rural,Extreme Cold,270.3940859,400,Transformer Failure,Lightning Strike,1,146,Medium
+Delhi,Urban,Clear,1102.267617,11,Transformer Failure,Tree Falling on Line,1,436,High
+Kolkata,Urban,Clear,1251.275597,11,Short Circuit,Overload,0,0,None
+Kolkata,Urban,Extreme Heat,315.5328915,400,Line Tripping,Human Error,0,0,None
+Mumbai,Urban,Fog,1300.025573,33,Overload,Equipment Failure,0,0,None
+Mumbai,Rural,Rain,931.1148171,132,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Clear,245.7059871,11,Transformer Failure,Human Error,0,0,None
+Chennai,Rural,Clear,1173.302106,220,Equipment Failure,Human Error,0,0,None
+Chennai,Urban,Rain,1142.367342,33,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Clear,207.9216361,66,Overload,Equipment Failure,0,0,None
+Kolkata,Rural,Thunderstorm,356.5690234,220,Line Tripping,Equipment Failure,0,0,None
+Hyderabad,Urban,Rain,1247.033085,400,Transformer Failure,Tree Falling on Line,1,206,Medium
+Delhi,Urban,Clear,229.8402758,11,Overload,Overload,0,0,None
+Hyderabad,Urban,Extreme Cold,1010.977275,66,Overload,Overload,0,0,None
+Chennai,Rural,Rain,220.6599426,220,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Thunderstorm,372.813029,11,Overload,Human Error,1,299,Medium
+Kolkata,Urban,Thunderstorm,1047.515054,11,Overload,Equipment Failure,1,493,High
+Bangalore,Urban,Fog,1099.172241,132,Line Tripping,Equipment Failure,1,132,Medium
+Delhi,Rural,Extreme Heat,1110.369958,220,Line Tripping,Human Error,1,304,High
+Hyderabad,Urban,Rain,1028.168108,33,Line Tripping,Equipment Failure,0,0,None
+Hyderabad,Urban,Clear,1090.235434,11,Short Circuit,Overload,0,0,None
+Hyderabad,Urban,Clear,1044.690365,400,Short Circuit,Overload,0,0,None
+Mumbai,Urban,Clear,265.234429,66,Transformer Failure,Animal Interference,0,0,None
+Chennai,Urban,Clear,291.7467294,220,Transformer Failure,Animal Interference,0,0,None
+Chennai,Urban,Clear,314.8536083,400,Equipment Failure,Human Error,0,0,None
+Kolkata,Urban,Clear,217.0300772,132,Short Circuit,Animal Interference,0,0,None
+Kolkata,Rural,Extreme Heat,1281.792217,132,Short Circuit,Human Error,1,445,High
+Hyderabad,Urban,Rain,225.3716281,220,Line Tripping,Overload,0,0,None
+Mumbai,Urban,Extreme Cold,397.9852385,33,Overload,Overload,0,0,None
+Hyderabad,Rural,Rain,300.8022893,66,Short Circuit,Tree Falling on Line,0,0,None
+Mumbai,Rural,Clear,1022.129763,132,Overload,Lightning Strike,0,0,None
+Kolkata,Rural,Rain,297.7343041,33,Transformer Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Rain,1129.526396,400,Short Circuit,Human Error,0,0,None
+Hyderabad,Urban,Fog,1246.878615,33,Equipment Failure,Human Error,1,511,High
+Chennai,Urban,Clear,250.5961086,132,Overload,Tree Falling on Line,0,0,None
+Mumbai,Rural,Clear,331.8222068,400,Overload,Human Error,0,0,None
+Delhi,Urban,Thunderstorm,344.3699062,66,Transformer Failure,Human Error,0,0,None
+Chennai,Urban,Extreme Heat,243.9469469,66,Line Tripping,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,1147.263784,11,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Urban,Thunderstorm,1033.342686,66,Equipment Failure,Animal Interference,1,177,Medium
+Delhi,Urban,Clear,292.1193824,132,Short Circuit,Animal Interference,0,0,None
+Mumbai,Urban,Clear,298.3257264,33,Transformer Failure,Tree Falling on Line,0,0,None
+Bangalore,Rural,Rain,1219.301262,132,Overload,Lightning Strike,0,0,None
+Mumbai,Rural,Rain,377.7698719,400,Short Circuit,Human Error,0,0,None
+Delhi,Urban,Clear,275.8944843,400,Short Circuit,Animal Interference,1,121,Medium
+Kolkata,Rural,Clear,1067.705417,11,Transformer Failure,Animal Interference,0,0,None
+Delhi,Rural,Clear,1073.186521,220,Line Tripping,Human Error,0,0,None
+Hyderabad,Rural,Thunderstorm,265.1109071,220,Line Tripping,Human Error,1,454,High
+Chennai,Urban,Fog,1270.733388,11,Overload,Human Error,1,487,High
+Mumbai,Urban,Rain,1158.740529,220,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Rural,Rain,209.9217767,220,Transformer Failure,Animal Interference,0,0,None
+Delhi,Urban,Fog,1331.044321,220,Equipment Failure,Lightning Strike,0,0,None
+Chennai,Rural,Thunderstorm,313.635155,220,Equipment Failure,Equipment Failure,0,0,None
+Kolkata,Urban,Thunderstorm,892.2487892,220,Overload,Animal Interference,0,0,None
+Delhi,Rural,Rain,296.0156485,66,Equipment Failure,Human Error,0,0,None
+Bangalore,Urban,Extreme Cold,275.5281251,66,Overload,Animal Interference,0,0,None
+Bangalore,Rural,Extreme Cold,274.8979478,220,Equipment Failure,Animal Interference,1,409,High
+Mumbai,Urban,Thunderstorm,1069.42828,220,Short Circuit,Overload,1,58,Low
+Mumbai,Urban,Extreme Cold,390.5998829,66,Equipment Failure,Overload,1,221,Medium
+Hyderabad,Urban,Fog,1316.704762,132,Short Circuit,Lightning Strike,0,0,None
+Bangalore,Urban,Clear,1196.555972,33,Line Tripping,Tree Falling on Line,0,0,None
+Bangalore,Urban,Fog,395.3749657,11,Line Tripping,Animal Interference,0,0,None
+Delhi,Rural,Rain,1041.377774,11,Line Tripping,Animal Interference,0,0,None
+Hyderabad,Urban,Clear,330.6191196,220,Overload,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,203.6147229,66,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,204.0752466,400,Line Tripping,Tree Falling on Line,0,0,None
+Delhi,Urban,Extreme Heat,354.6345808,11,Equipment Failure,Human Error,0,0,None
+Bangalore,Urban,Extreme Heat,978.8164869,220,Overload,Human Error,1,159,Medium
+Bangalore,Urban,Thunderstorm,310.4102288,400,Overload,Animal Interference,1,234,Medium
+Kolkata,Rural,Clear,895.9161818,11,Transformer Failure,Animal Interference,0,0,None
+Bangalore,Urban,Extreme Heat,266.0890503,11,Equipment Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Extreme Heat,290.6046677,220,Line Tripping,Human Error,1,16,Low
+Kolkata,Urban,Clear,381.1003259,66,Overload,Equipment Failure,0,0,None
+Delhi,Urban,Extreme Heat,987.1957449,33,Short Circuit,Tree Falling on Line,1,444,High
+Kolkata,Urban,Clear,313.6752934,33,Overload,Tree Falling on Line,0,0,None
+Mumbai,Urban,Rain,237.4729624,33,Overload,Human Error,0,0,None
+Mumbai,Urban,Rain,812.017972,132,Line Tripping,Overload,0,0,None
+Bangalore,Urban,Clear,348.0129083,66,Transformer Failure,Animal Interference,0,0,None
+Kolkata,Rural,Fog,1301.882914,66,Transformer Failure,Overload,0,0,None
+Bangalore,Urban,Rain,758.170305,132,Line Tripping,Equipment Failure,0,0,None
+Mumbai,Rural,Clear,364.5456067,400,Transformer Failure,Animal Interference,0,0,None
+Delhi,Urban,Clear,853.0530138,11,Transformer Failure,Animal Interference,0,0,None
+Delhi,Urban,Rain,1105.820047,66,Line Tripping,Animal Interference,1,178,Medium
+Kolkata,Rural,Clear,1014.280935,132,Equipment Failure,Animal Interference,1,38,Low
+Mumbai,Urban,Extreme Heat,1110.210239,66,Transformer Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,204.3022309,220,Equipment Failure,Lightning Strike,0,0,None
+Mumbai,Urban,Rain,281.4233283,33,Overload,Human Error,0,0,None
+Bangalore,Urban,Clear,352.9170365,220,Equipment Failure,Overload,0,0,None
+Delhi,Urban,Rain,302.8822171,33,Overload,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,385.8609414,33,Overload,Equipment Failure,0,0,None
+Delhi,Urban,Extreme Cold,360.3093804,132,Overload,Human Error,0,0,None
+Delhi,Urban,Extreme Heat,1210.4126,11,Line Tripping,Tree Falling on Line,1,292,Medium
+Hyderabad,Urban,Clear,1272.41152,132,Line Tripping,Tree Falling on Line,0,0,None
+Bangalore,Rural,Clear,344.6001649,66,Equipment Failure,Tree Falling on Line,0,0,None
+Kolkata,Urban,Clear,205.0740944,66,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Extreme Cold,334.7646287,11,Line Tripping,Animal Interference,0,0,None
+Bangalore,Rural,Extreme Heat,1037.942782,132,Line Tripping,Animal Interference,1,33,Low
+Mumbai,Urban,Rain,346.7902082,400,Overload,Lightning Strike,0,0,None
+Kolkata,Rural,Rain,1231.542336,400,Short Circuit,Lightning Strike,0,0,None
+Chennai,Urban,Clear,375.8564437,220,Short Circuit,Lightning Strike,0,0,None
+Chennai,Urban,Rain,1094.096602,132,Short Circuit,Equipment Failure,1,89,Low
+Mumbai,Urban,Fog,372.6701813,66,Equipment Failure,Animal Interference,0,0,None
+Hyderabad,Rural,Rain,1326.088462,220,Transformer Failure,Animal Interference,1,442,High
+Kolkata,Rural,Clear,1173.390813,400,Short Circuit,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,399.3871357,400,Transformer Failure,Equipment Failure,0,0,None
+Chennai,Urban,Clear,1045.06589,220,Line Tripping,Tree Falling on Line,1,318,High
+Chennai,Urban,Clear,1212.333221,132,Line Tripping,Tree Falling on Line,0,0,None
+Mumbai,Urban,Rain,1329.979444,220,Overload,Animal Interference,1,513,High
+Kolkata,Urban,Rain,363.6386794,66,Transformer Failure,Human Error,0,0,None
+Chennai,Urban,Fog,301.214973,33,Overload,Animal Interference,0,0,None
+Kolkata,Rural,Fog,255.4729611,66,Transformer Failure,Tree Falling on Line,0,0,None
+Kolkata,Rural,Fog,911.6938784,400,Line Tripping,Lightning Strike,0,0,None
+Bangalore,Urban,Fog,317.9586144,11,Overload,Overload,0,0,None
+Delhi,Urban,Clear,249.7746457,11,Line Tripping,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,367.9665384,11,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Rural,Rain,832.5248598,33,Short Circuit,Overload,0,0,None
+Hyderabad,Rural,Extreme Cold,229.629595,132,Line Tripping,Lightning Strike,0,0,None
+Chennai,Urban,Extreme Cold,382.6287744,66,Short Circuit,Equipment Failure,0,0,None
+Hyderabad,Urban,Extreme Heat,908.7832569,220,Short Circuit,Animal Interference,0,0,None
+Hyderabad,Urban,Extreme Heat,1063.758007,33,Line Tripping,Overload,0,0,None
+Mumbai,Urban,Clear,247.4609861,33,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Rural,Fog,1148.715693,11,Equipment Failure,Human Error,0,0,None
+Bangalore,Urban,Clear,376.8237667,220,Line Tripping,Equipment Failure,0,0,None
+Bangalore,Urban,Thunderstorm,283.8010487,33,Overload,Tree Falling on Line,1,436,High
+Mumbai,Urban,Clear,1269.598578,400,Equipment Failure,Equipment Failure,0,0,None
+Hyderabad,Urban,Extreme Cold,884.343133,11,Short Circuit,Equipment Failure,0,0,None
+Chennai,Urban,Thunderstorm,316.7450879,11,Line Tripping,Tree Falling on Line,1,581,High
+Bangalore,Urban,Clear,257.9360465,11,Line Tripping,Overload,0,0,None
+Bangalore,Rural,Extreme Heat,268.5539183,132,Line Tripping,Equipment Failure,1,130,Medium
+Mumbai,Urban,Clear,276.5632187,400,Overload,Animal Interference,0,0,None
+Kolkata,Rural,Thunderstorm,256.9684135,11,Line Tripping,Overload,0,0,None
+Bangalore,Urban,Clear,221.6763579,220,Short Circuit,Overload,0,0,None
+Hyderabad,Urban,Clear,208.6214205,400,Short Circuit,Equipment Failure,0,0,None
+Delhi,Rural,Thunderstorm,388.0670641,400,Short Circuit,Human Error,0,0,None
+Kolkata,Urban,Rain,288.6475949,33,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Clear,282.5088531,33,Transformer Failure,Human Error,0,0,None
+Bangalore,Urban,Clear,329.1997781,220,Transformer Failure,Human Error,0,0,None
+Mumbai,Urban,Clear,1354.237795,66,Line Tripping,Overload,0,0,None
+Delhi,Rural,Extreme Heat,905.0746241,132,Transformer Failure,Tree Falling on Line,1,532,High
+Chennai,Urban,Clear,787.6639253,220,Transformer Failure,Human Error,0,0,None
+Bangalore,Urban,Extreme Heat,268.9254296,132,Transformer Failure,Equipment Failure,0,0,None
+Chennai,Rural,Clear,1192.647278,400,Equipment Failure,Human Error,0,0,None
+Mumbai,Urban,Extreme Cold,268.8945801,11,Equipment Failure,Overload,0,0,None
+Kolkata,Urban,Clear,211.355536,400,Short Circuit,Animal Interference,0,0,None
+Chennai,Urban,Rain,266.9405938,220,Equipment Failure,Equipment Failure,0,0,None
+Hyderabad,Urban,Clear,366.3760354,220,Short Circuit,Lightning Strike,0,0,None
+Bangalore,Rural,Extreme Cold,273.8920102,66,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,360.5564201,66,Transformer Failure,Human Error,0,0,None
+Hyderabad,Urban,Thunderstorm,288.8248671,220,Equipment Failure,Animal Interference,1,319,High
+Chennai,Urban,Rain,1238.684689,400,Line Tripping,Overload,0,0,None
+Kolkata,Urban,Extreme Cold,1167.21689,220,Overload,Equipment Failure,1,469,High
+Mumbai,Rural,Rain,356.6226776,33,Short Circuit,Lightning Strike,0,0,None
+Kolkata,Urban,Extreme Cold,847.2314144,66,Overload,Equipment Failure,1,247,Medium
+Kolkata,Urban,Clear,255.0700368,33,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Rural,Extreme Heat,242.3256317,400,Overload,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Rain,264.0254913,11,Transformer Failure,Overload,0,0,None
+Hyderabad,Urban,Fog,1173.656918,400,Overload,Overload,0,0,None
+Bangalore,Urban,Clear,254.0684641,400,Line Tripping,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,221.6602121,11,Line Tripping,Lightning Strike,0,0,None
+Chennai,Rural,Extreme Heat,367.6953636,66,Overload,Equipment Failure,0,0,None
+Chennai,Rural,Thunderstorm,277.6316452,66,Short Circuit,Animal Interference,1,37,Low
+Mumbai,Urban,Extreme Cold,275.1094573,11,Equipment Failure,Overload,0,0,None
+Bangalore,Urban,Rain,221.7541682,132,Line Tripping,Tree Falling on Line,0,0,None
+Delhi,Rural,Thunderstorm,258.1192267,66,Equipment Failure,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,318.619223,33,Short Circuit,Overload,0,0,None
+Chennai,Urban,Rain,1101.286156,400,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Rural,Thunderstorm,1298.252077,400,Equipment Failure,Equipment Failure,1,232,Medium
+Bangalore,Rural,Clear,322.8169015,400,Equipment Failure,Animal Interference,0,0,None
+Delhi,Urban,Clear,226.7313348,220,Transformer Failure,Animal Interference,0,0,None
+Chennai,Urban,Clear,1364.677548,220,Overload,Animal Interference,1,563,High
+Chennai,Rural,Extreme Heat,245.9778707,132,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,215.7498357,33,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Clear,1077.285617,220,Equipment Failure,Overload,0,0,None
+Bangalore,Urban,Thunderstorm,774.0052156,400,Transformer Failure,Human Error,0,0,None
+Delhi,Urban,Thunderstorm,263.2933072,220,Overload,Human Error,0,0,None
+Mumbai,Urban,Clear,1253.292068,66,Equipment Failure,Animal Interference,0,0,None
+Chennai,Urban,Extreme Heat,264.4977332,220,Transformer Failure,Human Error,0,0,None
+Hyderabad,Rural,Extreme Cold,379.8576564,66,Line Tripping,Animal Interference,1,230,Medium
+Delhi,Urban,Clear,323.3496816,11,Transformer Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,240.9323057,11,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Rain,287.9347235,11,Overload,Tree Falling on Line,1,317,High
+Hyderabad,Urban,Fog,286.5021305,220,Line Tripping,Animal Interference,1,370,High
+Bangalore,Urban,Thunderstorm,1012.272665,400,Short Circuit,Tree Falling on Line,1,477,High
+Chennai,Urban,Clear,273.0549437,132,Transformer Failure,Overload,0,0,None
+Kolkata,Urban,Rain,384.2368775,33,Short Circuit,Lightning Strike,0,0,None
+Mumbai,Urban,Thunderstorm,289.1241087,33,Overload,Animal Interference,0,0,None
+Hyderabad,Urban,Rain,363.3779834,66,Transformer Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,243.0877243,220,Overload,Animal Interference,0,0,None
+Bangalore,Rural,Clear,367.9324898,400,Line Tripping,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,1276.952435,400,Short Circuit,Overload,0,0,None
+Mumbai,Rural,Clear,384.5344491,66,Equipment Failure,Lightning Strike,0,0,None
+Mumbai,Rural,Rain,205.2473945,33,Short Circuit,Overload,0,0,None
+Bangalore,Urban,Rain,947.9129095,132,Transformer Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Extreme Heat,919.5923199,400,Short Circuit,Tree Falling on Line,1,469,High
+Hyderabad,Rural,Rain,241.0958172,66,Short Circuit,Lightning Strike,0,0,None
+Bangalore,Urban,Rain,286.6000143,220,Overload,Animal Interference,0,0,None
+Hyderabad,Urban,Clear,391.8537381,33,Transformer Failure,Animal Interference,0,0,None
+Hyderabad,Rural,Rain,329.3768636,400,Transformer Failure,Human Error,0,0,None
+Mumbai,Rural,Clear,910.6452532,132,Line Tripping,Tree Falling on Line,0,0,None
+Delhi,Rural,Clear,914.9752389,220,Short Circuit,Tree Falling on Line,0,0,None
+Delhi,Rural,Clear,960.1672382,33,Line Tripping,Equipment Failure,0,0,None
+Hyderabad,Urban,Rain,246.5504059,400,Equipment Failure,Animal Interference,0,0,None
+Mumbai,Urban,Extreme Heat,1139.461875,11,Transformer Failure,Overload,0,0,None
+Delhi,Urban,Rain,1302.152596,220,Overload,Human Error,0,0,None
+Hyderabad,Rural,Thunderstorm,216.6309581,220,Overload,Overload,0,0,None
+Kolkata,Rural,Clear,201.9256478,132,Transformer Failure,Human Error,0,0,None
+Kolkata,Urban,Fog,226.4873491,400,Overload,Tree Falling on Line,0,0,None
+Mumbai,Urban,Extreme Heat,222.8127997,33,Line Tripping,Animal Interference,0,0,None
+Delhi,Urban,Rain,276.6386573,400,Transformer Failure,Animal Interference,0,0,None
+Hyderabad,Rural,Thunderstorm,353.1228691,66,Equipment Failure,Overload,0,0,None
+Bangalore,Urban,Extreme Heat,349.7974076,220,Equipment Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Extreme Heat,255.9886391,220,Overload,Lightning Strike,0,0,None
+Bangalore,Urban,Clear,1005.158613,33,Short Circuit,Overload,1,420,High
+Bangalore,Urban,Clear,339.1821185,11,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Rain,1083.586374,33,Transformer Failure,Overload,0,0,None
+Bangalore,Rural,Clear,339.0799975,11,Overload,Overload,0,0,None
+Delhi,Urban,Clear,1226.347926,220,Short Circuit,Overload,0,0,None
+Kolkata,Urban,Clear,1099.182405,220,Line Tripping,Animal Interference,0,0,None
+Bangalore,Urban,Extreme Heat,223.2499341,400,Overload,Human Error,0,0,None
+Chennai,Urban,Clear,986.0691063,220,Overload,Lightning Strike,0,0,None
+Delhi,Urban,Clear,294.156638,11,Overload,Lightning Strike,0,0,None
+Mumbai,Urban,Extreme Heat,1278.945215,220,Line Tripping,Equipment Failure,1,532,High
+Bangalore,Urban,Clear,253.4410914,220,Short Circuit,Animal Interference,0,0,None
+Bangalore,Urban,Fog,251.9963799,11,Short Circuit,Animal Interference,0,0,None
+Kolkata,Rural,Rain,1185.717748,11,Overload,Equipment Failure,0,0,None
+Mumbai,Rural,Fog,305.6379774,220,Line Tripping,Animal Interference,0,0,None
+Bangalore,Urban,Clear,264.1779998,220,Equipment Failure,Human Error,1,556,High
+Hyderabad,Urban,Clear,1041.841395,66,Line Tripping,Animal Interference,1,295,Medium
+Kolkata,Rural,Extreme Heat,238.1518364,66,Line Tripping,Animal Interference,0,0,None
+Mumbai,Urban,Thunderstorm,392.3070749,66,Overload,Human Error,0,0,None
+Chennai,Rural,Thunderstorm,239.0287762,33,Equipment Failure,Equipment Failure,1,412,High
+Mumbai,Urban,Extreme Cold,330.301516,132,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Fog,994.1658661,400,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Urban,Clear,1003.272093,33,Transformer Failure,Equipment Failure,1,470,High
+Bangalore,Urban,Clear,307.2557714,220,Transformer Failure,Human Error,0,0,None
+Bangalore,Urban,Clear,1179.862658,220,Short Circuit,Animal Interference,0,0,None
+Mumbai,Urban,Fog,1186.855525,220,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Rural,Extreme Heat,355.5635515,220,Equipment Failure,Overload,0,0,None
+Mumbai,Urban,Rain,253.5402511,11,Equipment Failure,Equipment Failure,0,0,None
+Kolkata,Rural,Fog,270.5110692,132,Short Circuit,Overload,0,0,None
+Bangalore,Urban,Fog,207.3387526,66,Overload,Human Error,0,0,None
+Delhi,Urban,Rain,1046.776594,11,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Rain,1149.43936,220,Line Tripping,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,211.539194,132,Transformer Failure,Human Error,0,0,None
+Chennai,Urban,Clear,942.3215338,66,Transformer Failure,Equipment Failure,1,16,Low
+Bangalore,Urban,Rain,918.178698,132,Line Tripping,Human Error,0,0,None
+Bangalore,Urban,Rain,1161.511766,33,Line Tripping,Animal Interference,0,0,None
+Hyderabad,Rural,Rain,988.5346477,33,Short Circuit,Animal Interference,0,0,None
+Mumbai,Urban,Rain,357.0625357,11,Short Circuit,Human Error,0,0,None
+Hyderabad,Urban,Extreme Heat,202.2895907,33,Short Circuit,Overload,0,0,None
+Hyderabad,Urban,Clear,315.238857,400,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Clear,236.1263338,33,Equipment Failure,Animal Interference,0,0,None
+Bangalore,Urban,Clear,334.8029189,400,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,962.9620543,33,Short Circuit,Human Error,1,159,Medium
+Delhi,Urban,Thunderstorm,362.0609325,400,Short Circuit,Human Error,0,0,None
+Mumbai,Urban,Thunderstorm,280.1919677,33,Short Circuit,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Rain,935.7369991,33,Short Circuit,Lightning Strike,0,0,None
+Chennai,Urban,Clear,794.0327244,132,Equipment Failure,Overload,0,0,None
+Chennai,Urban,Extreme Heat,758.597194,66,Equipment Failure,Human Error,0,0,None
+Chennai,Rural,Rain,322.4133986,11,Overload,Tree Falling on Line,0,0,None
+Bangalore,Rural,Thunderstorm,306.1452793,33,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Urban,Extreme Heat,1054.187959,400,Overload,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Rain,231.4557895,33,Transformer Failure,Overload,0,0,None
+Chennai,Urban,Clear,358.7805712,400,Overload,Tree Falling on Line,0,0,None
+Mumbai,Urban,Extreme Heat,340.420569,11,Line Tripping,Lightning Strike,0,0,None
+Mumbai,Urban,Rain,1105.069194,220,Equipment Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,1128.312754,400,Line Tripping,Tree Falling on Line,0,0,None
+Kolkata,Urban,Rain,344.5958376,132,Short Circuit,Lightning Strike,0,0,None
+Mumbai,Rural,Extreme Heat,1050.873269,400,Overload,Equipment Failure,0,0,None
+Kolkata,Urban,Fog,229.9785782,132,Line Tripping,Lightning Strike,0,0,None
+Bangalore,Rural,Clear,897.5841776,33,Overload,Tree Falling on Line,0,0,None
+Bangalore,Urban,Fog,323.9613687,400,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Extreme Heat,358.3559113,400,Equipment Failure,Lightning Strike,0,0,None
+Mumbai,Urban,Thunderstorm,330.2167515,132,Overload,Equipment Failure,0,0,None
+Delhi,Rural,Rain,213.119109,33,Line Tripping,Animal Interference,0,0,None
+Chennai,Urban,Clear,902.0160635,11,Line Tripping,Animal Interference,0,0,None
+Chennai,Urban,Thunderstorm,997.7283338,400,Overload,Tree Falling on Line,0,0,None
+Bangalore,Urban,Rain,225.9962178,11,Transformer Failure,Equipment Failure,0,0,None
+Chennai,Rural,Clear,784.1941023,66,Transformer Failure,Animal Interference,1,283,Medium
+Delhi,Urban,Thunderstorm,1226.34204,132,Transformer Failure,Equipment Failure,1,529,High
+Kolkata,Rural,Clear,1016.310516,132,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Urban,Rain,347.6175372,220,Overload,Lightning Strike,0,0,None
+Kolkata,Urban,Extreme Heat,238.6183438,66,Line Tripping,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Thunderstorm,263.6534922,66,Line Tripping,Equipment Failure,0,0,None
+Mumbai,Rural,Thunderstorm,787.4900462,132,Equipment Failure,Tree Falling on Line,1,174,Medium
+Chennai,Urban,Thunderstorm,1044.390379,220,Short Circuit,Human Error,1,108,Low
+Delhi,Urban,Fog,385.2602341,33,Transformer Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,386.2446098,132,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Clear,305.3823654,66,Line Tripping,Animal Interference,0,0,None
+Kolkata,Urban,Clear,1114.926355,66,Transformer Failure,Equipment Failure,1,129,Medium
+Hyderabad,Urban,Rain,247.2665691,400,Line Tripping,Equipment Failure,0,0,None
+Hyderabad,Urban,Clear,1202.766064,220,Transformer Failure,Tree Falling on Line,0,0,None
+Kolkata,Rural,Thunderstorm,1040.537197,66,Equipment Failure,Equipment Failure,0,0,None
+Bangalore,Rural,Extreme Cold,945.6375051,132,Short Circuit,Human Error,0,0,None
+Delhi,Urban,Extreme Heat,267.1158435,132,Equipment Failure,Lightning Strike,0,0,None
+Chennai,Urban,Rain,221.85935,220,Overload,Animal Interference,0,0,None
+Chennai,Urban,Extreme Heat,222.1433307,33,Short Circuit,Animal Interference,0,0,None
+Kolkata,Urban,Clear,343.9339244,220,Equipment Failure,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Thunderstorm,1330.219513,132,Overload,Tree Falling on Line,1,509,High
+Bangalore,Rural,Rain,345.1628188,220,Equipment Failure,Animal Interference,0,0,None
+Hyderabad,Urban,Rain,1314.798098,220,Overload,Human Error,0,0,None
+Chennai,Urban,Clear,205.5640725,66,Transformer Failure,Animal Interference,0,0,None
+Mumbai,Rural,Rain,1053.835841,132,Line Tripping,Equipment Failure,1,372,High
+Kolkata,Urban,Rain,1165.553175,11,Line Tripping,Lightning Strike,0,0,None
+Kolkata,Rural,Clear,1226.206236,66,Overload,Overload,0,0,None
+Kolkata,Urban,Clear,858.329248,132,Transformer Failure,Animal Interference,0,0,None
+Kolkata,Rural,Fog,252.9706185,11,Overload,Tree Falling on Line,0,0,None
+Mumbai,Rural,Clear,204.9838351,33,Transformer Failure,Equipment Failure,0,0,None
+Hyderabad,Rural,Thunderstorm,365.641728,132,Overload,Overload,0,0,None
+Kolkata,Rural,Thunderstorm,946.0812883,400,Overload,Human Error,0,0,None
+Chennai,Rural,Extreme Cold,1185.420775,400,Short Circuit,Animal Interference,0,0,None
+Bangalore,Urban,Clear,340.2257522,11,Line Tripping,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,307.2837352,220,Short Circuit,Overload,1,259,Medium
+Kolkata,Urban,Fog,300.8379642,11,Equipment Failure,Equipment Failure,0,0,None
+Chennai,Urban,Rain,747.431713,132,Overload,Lightning Strike,0,0,None
+Mumbai,Urban,Fog,268.1254754,66,Line Tripping,Human Error,0,0,None
+Kolkata,Urban,Rain,344.5775807,11,Transformer Failure,Overload,0,0,None
+Hyderabad,Urban,Clear,230.0679383,220,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Extreme Heat,391.5413739,132,Equipment Failure,Overload,1,329,High
+Hyderabad,Urban,Clear,391.4801501,132,Overload,Equipment Failure,0,0,None
+Hyderabad,Rural,Fog,306.7510432,33,Equipment Failure,Lightning Strike,0,0,None
+Chennai,Urban,Clear,220.0601587,400,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Rural,Rain,876.4618344,33,Transformer Failure,Lightning Strike,0,0,None
+Mumbai,Urban,Thunderstorm,392.9252983,66,Overload,Tree Falling on Line,0,0,None
+Mumbai,Rural,Extreme Heat,389.4301701,400,Overload,Overload,0,0,None
+Mumbai,Urban,Fog,1044.349643,66,Overload,Animal Interference,0,0,None
+Bangalore,Rural,Clear,278.5737897,33,Line Tripping,Tree Falling on Line,0,0,None
+Mumbai,Urban,Extreme Cold,1023.58708,66,Transformer Failure,Animal Interference,0,0,None
+Chennai,Rural,Clear,830.3692977,66,Equipment Failure,Animal Interference,0,0,None
+Delhi,Urban,Extreme Heat,333.377746,400,Overload,Tree Falling on Line,0,0,None
+Delhi,Urban,Rain,326.592995,11,Short Circuit,Human Error,0,0,None
+Hyderabad,Urban,Clear,1311.665183,33,Equipment Failure,Overload,0,0,None
+Mumbai,Urban,Clear,290.5891975,33,Short Circuit,Tree Falling on Line,0,0,None
+Kolkata,Urban,Thunderstorm,797.8536034,220,Transformer Failure,Lightning Strike,1,521,High
+Mumbai,Rural,Thunderstorm,269.7796946,132,Overload,Equipment Failure,1,205,Medium
+Delhi,Urban,Clear,279.4548573,400,Line Tripping,Lightning Strike,0,0,None
+Delhi,Urban,Rain,369.6298323,400,Overload,Lightning Strike,0,0,None
+Chennai,Urban,Clear,1285.747842,33,Line Tripping,Overload,0,0,None
+Delhi,Rural,Clear,348.8720302,11,Overload,Tree Falling on Line,0,0,None
+Mumbai,Urban,Thunderstorm,909.9464118,132,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Fog,1127.418499,66,Equipment Failure,Animal Interference,0,0,None
+Mumbai,Urban,Rain,1162.358765,66,Overload,Animal Interference,0,0,None
+Delhi,Rural,Rain,288.946152,66,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Thunderstorm,1245.554095,400,Equipment Failure,Equipment Failure,0,0,None
+Mumbai,Rural,Clear,227.506882,132,Equipment Failure,Human Error,1,311,High
+Delhi,Urban,Clear,384.6094028,132,Overload,Human Error,0,0,None
+Bangalore,Urban,Clear,371.9866581,11,Overload,Tree Falling on Line,0,0,None
+Chennai,Rural,Thunderstorm,1018.321285,400,Short Circuit,Overload,1,481,High
+Bangalore,Urban,Thunderstorm,217.2005666,11,Overload,Human Error,0,0,None
+Mumbai,Urban,Clear,266.0105701,132,Transformer Failure,Tree Falling on Line,0,0,None
+Kolkata,Urban,Clear,837.1410383,400,Transformer Failure,Lightning Strike,0,0,None
+Chennai,Urban,Rain,258.7289816,132,Transformer Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Clear,942.8003605,11,Equipment Failure,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,987.7436622,11,Equipment Failure,Tree Falling on Line,1,405,High
+Chennai,Urban,Clear,373.4547939,33,Line Tripping,Tree Falling on Line,0,0,None
+Mumbai,Rural,Clear,224.4037309,132,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Rural,Clear,345.4075137,132,Overload,Lightning Strike,0,0,None
+Delhi,Urban,Thunderstorm,281.6589031,11,Line Tripping,Tree Falling on Line,0,0,None
+Bangalore,Urban,Thunderstorm,281.5597849,220,Short Circuit,Overload,1,412,High
+Chennai,Urban,Clear,300.336471,400,Transformer Failure,Tree Falling on Line,0,0,None
+Bangalore,Urban,Extreme Heat,260.970503,66,Transformer Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Extreme Cold,852.4312788,220,Overload,Animal Interference,0,0,None
+Kolkata,Rural,Clear,261.9446954,66,Short Circuit,Overload,1,142,Medium
+Kolkata,Urban,Thunderstorm,956.1370107,66,Short Circuit,Animal Interference,1,288,Medium
+Mumbai,Urban,Rain,337.4714271,220,Transformer Failure,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Thunderstorm,206.5297708,132,Transformer Failure,Animal Interference,0,0,None
+Bangalore,Urban,Rain,1286.881304,220,Equipment Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,391.0748171,220,Short Circuit,Human Error,0,0,None
+Mumbai,Urban,Clear,1198.75428,66,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Rain,910.9054347,132,Overload,Overload,0,0,None
+Hyderabad,Urban,Clear,257.0293534,66,Short Circuit,Human Error,1,226,Medium
+Bangalore,Urban,Clear,219.5328133,66,Short Circuit,Equipment Failure,0,0,None
+Chennai,Rural,Extreme Cold,397.2770972,220,Overload,Tree Falling on Line,0,0,None
+Kolkata,Urban,Clear,366.9327975,11,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Clear,357.1201232,220,Transformer Failure,Lightning Strike,1,152,Medium
+Delhi,Urban,Clear,803.8755122,132,Equipment Failure,Equipment Failure,0,0,None
+Delhi,Rural,Clear,349.4526377,220,Equipment Failure,Tree Falling on Line,0,0,None
+Mumbai,Urban,Thunderstorm,338.6271501,11,Overload,Equipment Failure,1,119,Low
+Mumbai,Urban,Clear,1291.459884,220,Overload,Tree Falling on Line,1,86,Low
+Hyderabad,Rural,Rain,342.674358,400,Line Tripping,Human Error,0,0,None
+Bangalore,Urban,Thunderstorm,1251.458651,400,Transformer Failure,Overload,1,529,High
+Mumbai,Urban,Clear,241.6208099,400,Short Circuit,Animal Interference,0,0,None
+Bangalore,Urban,Thunderstorm,357.1551465,11,Line Tripping,Overload,1,322,High
+Delhi,Urban,Clear,324.1611092,132,Short Circuit,Lightning Strike,0,0,None
+Delhi,Rural,Thunderstorm,252.9733894,11,Equipment Failure,Equipment Failure,0,0,None
+Delhi,Urban,Clear,222.7860963,400,Overload,Overload,0,0,None
+Kolkata,Urban,Clear,278.1456577,132,Overload,Overload,0,0,None
+Hyderabad,Urban,Rain,334.7016804,400,Transformer Failure,Overload,0,0,None
+Mumbai,Urban,Clear,1201.267092,400,Transformer Failure,Animal Interference,1,330,High
+Hyderabad,Rural,Fog,385.0704395,66,Line Tripping,Equipment Failure,0,0,None
+Hyderabad,Urban,Fog,275.0380797,33,Transformer Failure,Lightning Strike,0,0,None
+Chennai,Urban,Extreme Cold,332.1430873,220,Overload,Lightning Strike,0,0,None
+Hyderabad,Rural,Extreme Heat,1080.180698,11,Overload,Overload,1,375,High
+Kolkata,Urban,Clear,246.2203354,33,Short Circuit,Human Error,0,0,None
+Chennai,Urban,Clear,845.7755925,220,Equipment Failure,Tree Falling on Line,1,597,High
+Kolkata,Urban,Clear,361.8775671,66,Line Tripping,Human Error,0,0,None
+Hyderabad,Urban,Extreme Heat,326.0255249,132,Equipment Failure,Lightning Strike,0,0,None
+Kolkata,Urban,Fog,1218.643939,33,Line Tripping,Lightning Strike,1,117,Low
+Mumbai,Rural,Extreme Heat,280.7472343,220,Line Tripping,Overload,0,0,None
+Kolkata,Urban,Rain,240.4240284,400,Line Tripping,Human Error,0,0,None
+Chennai,Rural,Rain,341.9215837,66,Overload,Tree Falling on Line,0,0,None
+Delhi,Urban,Extreme Heat,331.3753307,220,Overload,Lightning Strike,1,596,High
+Delhi,Urban,Thunderstorm,1093.620665,33,Overload,Overload,1,246,Medium
+Bangalore,Urban,Rain,319.5696092,66,Short Circuit,Animal Interference,0,0,None
+Bangalore,Rural,Rain,897.7707571,11,Line Tripping,Human Error,0,0,None
+Kolkata,Urban,Clear,1371.009996,220,Equipment Failure,Animal Interference,1,74,Low
+Mumbai,Rural,Clear,1076.219205,132,Line Tripping,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,361.8231094,11,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Urban,Clear,890.9735529,132,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Rain,285.0195993,132,Equipment Failure,Animal Interference,0,0,None
+Hyderabad,Rural,Clear,1196.38667,33,Transformer Failure,Lightning Strike,1,342,High
+Chennai,Urban,Fog,1037.753866,66,Line Tripping,Tree Falling on Line,0,0,None
+Chennai,Urban,Clear,225.3739431,220,Transformer Failure,Equipment Failure,0,0,None
+Delhi,Urban,Rain,303.0853767,11,Transformer Failure,Equipment Failure,0,0,None
+Hyderabad,Urban,Clear,223.3526919,66,Line Tripping,Lightning Strike,0,0,None
+Bangalore,Rural,Rain,256.5898119,33,Short Circuit,Overload,0,0,None
+Bangalore,Urban,Rain,917.9826544,132,Transformer Failure,Animal Interference,0,0,None
+Chennai,Urban,Extreme Heat,233.6817979,400,Line Tripping,Lightning Strike,1,252,Medium
+Chennai,Rural,Extreme Cold,287.7903874,400,Short Circuit,Tree Falling on Line,0,0,None
+Mumbai,Urban,Clear,288.6938129,220,Transformer Failure,Human Error,1,333,High
+Bangalore,Urban,Rain,292.9702313,220,Equipment Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Rain,944.6250169,33,Equipment Failure,Lightning Strike,1,328,High
+Delhi,Urban,Clear,1134.882793,66,Line Tripping,Lightning Strike,1,88,Low
+Chennai,Urban,Clear,301.1496667,66,Short Circuit,Animal Interference,0,0,None
+Chennai,Rural,Clear,1016.472816,220,Transformer Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Thunderstorm,1168.542476,33,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Rain,1283.303189,400,Equipment Failure,Human Error,0,0,None
+Mumbai,Rural,Rain,206.2294278,11,Line Tripping,Tree Falling on Line,0,0,None
+Kolkata,Rural,Thunderstorm,326.2698127,400,Short Circuit,Overload,0,0,None
+Bangalore,Urban,Fog,1306.659441,132,Short Circuit,Overload,0,0,None
+Delhi,Urban,Extreme Heat,281.9370607,400,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Clear,1132.809718,11,Transformer Failure,Tree Falling on Line,1,378,High
+Bangalore,Urban,Thunderstorm,895.1616308,132,Overload,Equipment Failure,1,33,Low
+Bangalore,Urban,Rain,376.0986459,33,Line Tripping,Overload,0,0,None
+Hyderabad,Urban,Extreme Heat,978.3972195,66,Transformer Failure,Overload,0,0,None
+Mumbai,Urban,Extreme Cold,348.7618635,66,Line Tripping,Human Error,1,47,Low
+Delhi,Urban,Clear,1265.13419,132,Transformer Failure,Human Error,1,347,High
+Kolkata,Urban,Rain,210.7525046,11,Transformer Failure,Overload,0,0,None
+Kolkata,Rural,Clear,1018.901407,11,Equipment Failure,Human Error,0,0,None
+Mumbai,Rural,Thunderstorm,272.4383504,66,Short Circuit,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,267.3055904,220,Line Tripping,Equipment Failure,0,0,None
+Mumbai,Rural,Thunderstorm,369.3634525,132,Equipment Failure,Animal Interference,0,0,None
+Delhi,Urban,Fog,1110.598047,33,Transformer Failure,Lightning Strike,1,429,High
+Chennai,Urban,Extreme Heat,341.9121587,11,Equipment Failure,Human Error,0,0,None
+Mumbai,Rural,Clear,825.543667385336,411,Line Tripping,Human Error,1,0,None
+Kolkata,Urban,Extreme Heat,335.1179013539179,389,Line Tripping,Human Error,0,0,None
+Kolkata,Rural,Thunderstorm,211.50532437840067,209,Equipment Failure,Equipment Failure,0,0,None
+Chennai,Rural,Clear,153.88132332435202,33,Short Circuit,Human Error,0,0,None
+Delhi,Urban,Clear,850.5634482352717,77,Short Circuit,Equipment Failure,1,338,High
+Bangalore,Rural,Rain,360.76992087394797,22,Line Tripping,Overload,0,0,None
+Delhi,Urban,Extreme Heat,1165.2073565055834,66,Short Circuit,Tree Falling on Line,1,623,High
+Bangalore,Rural,Rain,421.4342938989316,132,Transformer Failure,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,381.03729576057776,209,Transformer Failure,Lightning Strike,0,0,None
+Chennai,Urban,Rain,1121.677525783001,389,Transformer Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Clear,194.82670767676075,132,Equipment Failure,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,281.8455949307684,389,Line Tripping,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,348.25021638327775,77,Transformer Failure,Human Error,0,0,None
+Bangalore,Urban,Clear,253.02962329744665,77,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Rural,Fog,347.2506779384785,231,Equipment Failure,Human Error,0,0,None
+Chennai,Rural,Clear,1061.096770840951,77,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Fog,198.7023628877322,389,Overload,Human Error,0,0,None
+Hyderabad,Urban,Rain,1031.61696555371,22,Line Tripping,Equipment Failure,0,0,None
+Bangalore,Rural,Rain,1213.243688894725,132,Overload,Lightning Strike,0,0,None
+Chennai,Urban,Clear,207.2907090213395,209,Equipment Failure,Overload,0,0,None
+Mumbai,Urban,Extreme Cold,336.82862927202643,66,Line Tripping,Human Error,1,98,Low
+Mumbai,Urban,Thunderstorm,934.8528524740416,220,Transformer Failure,Human Error,1,394,High
+Bangalore,Rural,Rain,1327.0059673119624,231,Equipment Failure,Tree Falling on Line,0,0,None
+Mumbai,Urban,Clear,371.77875849158863,0,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Extreme Heat,1080.9201365318092,0,Overload,Overload,1,402,High
+Delhi,Urban,Rain,257.89377185913077,389,Transformer Failure,Animal Interference,1,13,None
+Chennai,Urban,Fog,322.85138900095865,44,Overload,Animal Interference,0,0,None
+Bangalore,Urban,Clear,232.98817299353772,400,Line Tripping,Animal Interference,0,0,None
+Hyderabad,Rural,Extreme Heat,1108.4206434206747,22,Overload,Overload,1,405,High
+Delhi,Urban,Clear,368.54341088094924,143,Transformer Failure,Overload,1,56,None
+Kolkata,Urban,Extreme Heat,1135.57207587791,411,Short Circuit,Overload,0,0,None
+Hyderabad,Rural,Fog,908.4773809737692,231,Line Tripping,Overload,0,0,None
+Chennai,Urban,Thunderstorm,962.4276167352144,11,Equipment Failure,Animal Interference,1,577,High
+Hyderabad,Urban,Thunderstorm,1159.59821517427,209,Equipment Failure,Tree Falling on Line,1,301,High
+Hyderabad,Urban,Fog,284.49457338397735,231,Line Tripping,Animal Interference,1,347,High
+Hyderabad,Urban,Clear,392.3020675365068,11,Line Tripping,Human Error,1,18,None
+Delhi,Urban,Thunderstorm,243.2048933971135,77,Equipment Failure,Lightning Strike,1,1,None
+Bangalore,Urban,Clear,1026.952650628549,11,Overload,Animal Interference,1,518,High
+Mumbai,Rural,Extreme Cold,236.58183046888092,22,Line Tripping,Human Error,0,0,None
+Hyderabad,Rural,Clear,354.41212363084054,400,Short Circuit,Human Error,1,391,High
+Kolkata,Rural,Rain,1008.7056992060886,77,Equipment Failure,Lightning Strike,1,444,High
+Kolkata,Urban,Extreme Heat,250.71777299050657,389,Equipment Failure,Tree Falling on Line,0,0,None
+Chennai,Rural,Thunderstorm,350.729503819506,44,Equipment Failure,Lightning Strike,0,0,None
+Kolkata,Rural,Clear,204.3024909902321,33,Equipment Failure,Equipment Failure,0,0,None
+Kolkata,Urban,Extreme Heat,351.8979483351733,400,Line Tripping,Human Error,0,0,None
+Bangalore,Urban,Extreme Heat,1211.604467303854,44,Transformer Failure,Overload,1,98,Low
+Chennai,Rural,Extreme Heat,1381.6676118798966,400,Line Tripping,Animal Interference,1,560,High
+Chennai,Urban,Extreme Heat,1228.1602039262748,389,Overload,Tree Falling on Line,0,0,None
+Delhi,Urban,Rain,278.86180720598117,132,Equipment Failure,Lightning Strike,0,0,None
+Hyderabad,Rural,Extreme Heat,1170.193332222632,22,Overload,Human Error,1,23,None
+Delhi,Urban,Rain,330.15082075897357,22,Short Circuit,Equipment Failure,0,0,None
+Chennai,Rural,Clear,1157.5351394641152,400,Equipment Failure,Human Error,0,0,None
+Mumbai,Urban,Clear,836.0351333957203,66,Equipment Failure,Human Error,0,0,None
+Hyderabad,Rural,Fog,252.16923877667224,389,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Urban,Thunderstorm,766.7551415761876,400,Transformer Failure,Human Error,0,0,None
+Mumbai,Rural,Rain,929.6030326244623,132,Short Circuit,Equipment Failure,0,0,None
+Chennai,Urban,Rain,312.5089352929355,143,Line Tripping,Overload,0,0,None
+Delhi,Urban,Rain,939.8596784433931,33,Equipment Failure,Lightning Strike,1,380,High
+Hyderabad,Rural,Thunderstorm,227.08135171114026,220,Transformer Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Extreme Heat,1198.6993339644387,33,Equipment Failure,Lightning Strike,1,231,Medium
+Mumbai,Rural,Clear,1254.8464922554108,411,Equipment Failure,Equipment Failure,1,499,High
+Bangalore,Urban,Fog,1127.4841825707576,66,Equipment Failure,Animal Interference,0,0,None
+Mumbai,Rural,Clear,850.3065525198102,389,Transformer Failure,Overload,0,0,None
+Bangalore,Urban,Rain,937.1343145859319,132,Line Tripping,Human Error,0,0,None
+Mumbai,Rural,Rain,199.16644173608404,22,Short Circuit,Overload,0,0,None
+Kolkata,Urban,Clear,882.7174912564345,121,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Extreme Cold,379.4240642794269,0,Overload,Equipment Failure,0,0,None
+Bangalore,Urban,Extreme Heat,256.71888852620657,0,Equipment Failure,Equipment Failure,1,0,None
+Delhi,Urban,Extreme Heat,307.2065813425549,209,Short Circuit,Lightning Strike,0,0,None
+Bangalore,Urban,Clear,1194.8145206654349,44,Line Tripping,Tree Falling on Line,0,0,None
+Bangalore,Rural,Thunderstorm,1155.289172068316,44,Transformer Failure,Human Error,0,0,None
+Kolkata,Urban,Clear,317.05900898817015,11,Equipment Failure,Tree Falling on Line,0,0,None
+Kolkata,Rural,Clear,1015.684915414866,143,Line Tripping,Equipment Failure,0,0,None
+Kolkata,Urban,Clear,1001.9175373229705,33,Line Tripping,Lightning Strike,0,0,None
+Hyderabad,Urban,Rain,913.6968161572704,209,Equipment Failure,Animal Interference,1,261,Medium
+Mumbai,Urban,Rain,254.7094507420578,77,Transformer Failure,Lightning Strike,1,384,High
+Delhi,Urban,Fog,1319.5948805810567,231,Equipment Failure,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,904.6127629961481,22,Line Tripping,Human Error,0,0,None
+Bangalore,Urban,Clear,269.56981506359404,77,Equipment Failure,Human Error,0,0,None
+Kolkata,Rural,Clear,1205.2167021740454,66,Overload,Equipment Failure,1,543,High
+Bangalore,Rural,Clear,285.0478968557509,400,Short Circuit,Overload,0,0,None
+Mumbai,Urban,Clear,255.09489599387118,121,Transformer Failure,Tree Falling on Line,0,0,None
+Hyderabad,Rural,Thunderstorm,712.9649740361438,143,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,220.9218932379988,0,Short Circuit,Human Error,0,0,None
+Mumbai,Urban,Rain,963.9293119573566,132,Short Circuit,Tree Falling on Line,0,0,None
+Chennai,Urban,Rain,255.65555995925754,121,Line Tripping,Overload,0,0,None
+Kolkata,Urban,Clear,353.3042805249943,209,Short Circuit,Overload,0,0,None
+Mumbai,Rural,Thunderstorm,1290.777554360537,400,Equipment Failure,Equipment Failure,1,279,Medium
+Kolkata,Urban,Fog,1247.2000675031768,22,Line Tripping,Lightning Strike,1,97,Low
+Hyderabad,Urban,Thunderstorm,327.4350628476091,220,Line Tripping,Human Error,0,0,None
+Kolkata,Rural,Extreme Heat,1276.7761382998635,143,Short Circuit,Human Error,1,436,High
+Chennai,Urban,Rain,1145.394611156353,231,Line Tripping,Lightning Strike,0,0,None
+Kolkata,Rural,Clear,353.3180171920956,143,Equipment Failure,Equipment Failure,1,540,High
+Mumbai,Urban,Rain,1307.3581807378189,389,Line Tripping,Animal Interference,0,0,None
+Chennai,Urban,Clear,368.2207803302833,66,Line Tripping,Lightning Strike,0,0,None
+Mumbai,Urban,Clear,329.7750153400524,33,Transformer Failure,Equipment Failure,1,0,None
+Mumbai,Rural,Rain,246.30933980509218,209,Equipment Failure,Animal Interference,0,0,None
+Chennai,Urban,Clear,208.7309378349765,411,Equipment Failure,Equipment Failure,0,0,None
+Mumbai,Urban,Rain,353.7147491983343,0,Short Circuit,Human Error,0,0,None
+Delhi,Urban,Thunderstorm,309.855480514534,209,Transformer Failure,Equipment Failure,0,0,None
+Chennai,Urban,Extreme Cold,263.17999278149773,220,Transformer Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,202.69197670714198,209,Short Circuit,Overload,0,0,None
+Kolkata,Urban,Clear,358.7505733098533,22,Transformer Failure,Lightning Strike,0,0,None
+Chennai,Urban,Clear,324.77018719904424,143,Overload,Lightning Strike,0,0,None
+Mumbai,Rural,Thunderstorm,215.13719209128675,44,Transformer Failure,Animal Interference,0,0,None
+Delhi,Urban,Thunderstorm,928.5060171771748,22,Equipment Failure,Animal Interference,1,526,High
+Delhi,Urban,Rain,359.1543282631054,389,Equipment Failure,Lightning Strike,0,0,None
+Mumbai,Rural,Clear,237.50151614443402,22,Overload,Human Error,0,0,None
+Chennai,Urban,Clear,769.9997144944142,121,Line Tripping,Equipment Failure,0,0,None
+Chennai,Rural,Clear,273.93785811592613,121,Line Tripping,Tree Falling on Line,0,0,None
+Chennai,Rural,Rain,351.85087159424916,132,Line Tripping,Animal Interference,0,0,None
+Mumbai,Rural,Clear,1064.6311314477487,33,Equipment Failure,Human Error,0,0,None
+Delhi,Urban,Rain,1004.5497760842497,143,Equipment Failure,Overload,1,19,None
+Hyderabad,Urban,Fog,285.2009685261785,231,Line Tripping,Animal Interference,1,384,High
+Bangalore,Rural,Clear,383.08503731977237,66,Transformer Failure,Animal Interference,0,0,None
+Mumbai,Rural,Extreme Heat,1021.5606223435547,411,Overload,Equipment Failure,0,0,None
+Bangalore,Rural,Thunderstorm,306.8443882344385,411,Line Tripping,Animal Interference,1,58,None
+Delhi,Urban,Fog,1099.975628776853,44,Transformer Failure,Lightning Strike,1,446,High
+Hyderabad,Rural,Thunderstorm,366.73912578132826,55,Equipment Failure,Overload,0,0,None
+Mumbai,Urban,Rain,224.66667939767325,121,Overload,Overload,1,585,High
+Bangalore,Urban,Thunderstorm,244.77681030112296,132,Overload,Animal Interference,0,0,None
+Kolkata,Urban,Rain,323.8362627286475,400,Transformer Failure,Overload,1,54,None
+Kolkata,Urban,Rain,240.33128377171107,400,Line Tripping,Human Error,0,0,None
+Bangalore,Urban,Rain,898.1933840681011,121,Overload,Overload,1,0,None
+Hyderabad,Urban,Clear,293.96151732340604,11,Short Circuit,Human Error,0,0,None
+Bangalore,Urban,Rain,220.51027251000545,220,Equipment Failure,Lightning Strike,0,0,None
+Bangalore,Rural,Extreme Cold,939.432087378289,132,Short Circuit,Human Error,0,0,None
+Bangalore,Rural,Extreme Cold,953.9585321586059,143,Short Circuit,Human Error,0,0,None
+Kolkata,Rural,Clear,864.9183531402107,121,Transformer Failure,Animal Interference,0,0,None
+Hyderabad,Urban,Thunderstorm,283.9271215426247,389,Short Circuit,Tree Falling on Line,0,0,None
+Kolkata,Urban,Fog,231.33816092931266,411,Overload,Tree Falling on Line,0,0,None
+Mumbai,Urban,Clear,223.52552367741177,77,Equipment Failure,Overload,0,0,None
+Hyderabad,Urban,Clear,1295.5948823307103,143,Line Tripping,Tree Falling on Line,0,0,None
+Bangalore,Rural,Fog,227.75424631323847,389,Equipment Failure,Human Error,1,0,None
+Chennai,Urban,Clear,232.95444426594034,411,Equipment Failure,Equipment Failure,0,0,None
+Mumbai,Rural,Rain,930.6333373434273,121,Short Circuit,Equipment Failure,0,0,None
+Delhi,Urban,Clear,1303.7056816117902,11,Short Circuit,Lightning Strike,0,0,None
+Kolkata,Rural,Thunderstorm,334.911860506164,411,Short Circuit,Overload,0,0,None
+Hyderabad,Urban,Clear,357.8519578466197,22,Line Tripping,Human Error,0,0,None
+Kolkata,Urban,Clear,1036.459583666083,22,Line Tripping,Equipment Failure,1,54,Low
+Hyderabad,Urban,Rain,1078.9000356240435,33,Transformer Failure,Overload,1,8,None
+Hyderabad,Rural,Clear,269.63493673748354,22,Transformer Failure,Human Error,0,0,None
+Kolkata,Rural,Extreme Heat,227.97286419808583,55,Line Tripping,Animal Interference,1,17,None
+Chennai,Rural,Extreme Heat,1088.5892467916726,411,Transformer Failure,Overload,0,0,None
+Mumbai,Urban,Clear,350.2645992404751,0,Transformer Failure,Lightning Strike,0,0,None
+Bangalore,Rural,Rain,290.75479130933286,22,Overload,Overload,0,0,None
+Hyderabad,Urban,Thunderstorm,390.61212401534823,411,Overload,Equipment Failure,0,0,None
+Delhi,Urban,Thunderstorm,310.5751362452021,33,Overload,Lightning Strike,0,0,None
+Delhi,Urban,Rain,1307.9122999652552,209,Overload,Human Error,0,0,None
+Chennai,Urban,Clear,242.6669284225242,400,Overload,Overload,1,450,High
+Kolkata,Rural,Clear,325.7717715340514,77,Short Circuit,Overload,1,150,Medium
+Chennai,Urban,Clear,351.4126744260521,22,Transformer Failure,Lightning Strike,0,0,None
+Delhi,Urban,Clear,1312.3517805223976,22,Short Circuit,Lightning Strike,0,0,None
+Kolkata,Urban,Clear,179.74704866710186,400,Short Circuit,Animal Interference,0,0,None
+Hyderabad,Urban,Rain,353.86285033523984,66,Transformer Failure,Animal Interference,1,29,None
+Hyderabad,Rural,Clear,1126.09999856289,22,Short Circuit,Human Error,1,629,High
+Hyderabad,Urban,Fog,1148.2280564915936,400,Overload,Overload,0,0,None
+Mumbai,Urban,Extreme Heat,285.29262652494964,231,Line Tripping,Human Error,1,69,Low
+Bangalore,Urban,Extreme Heat,365.06895113689427,55,Short Circuit,Tree Falling on Line,0,0,None
+Delhi,Rural,Clear,227.351413882747,22,Transformer Failure,Equipment Failure,1,6,None
+Hyderabad,Rural,Thunderstorm,745.9886591269258,132,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Rural,Rain,245.60027382185953,400,Equipment Failure,Animal Interference,0,0,None
+Bangalore,Rural,Clear,315.3218887075403,400,Line Tripping,Overload,0,0,None
+Bangalore,Urban,Clear,271.07767529162015,209,Short Circuit,Animal Interference,0,0,None
+Hyderabad,Urban,Extreme Cold,1011.4762646810151,66,Overload,Overload,0,0,None
+Bangalore,Urban,Clear,1051.7751035660096,44,Overload,Human Error,0,0,None
+Mumbai,Rural,Extreme Heat,267.89965255757437,209,Line Tripping,Human Error,1,0,Low
+Bangalore,Urban,Thunderstorm,778.7371359333694,400,Transformer Failure,Human Error,0,0,None
+Chennai,Urban,Clear,381.7171039061313,33,Overload,Equipment Failure,0,0,None
+Bangalore,Urban,Clear,333.2633748753741,411,Transformer Failure,Equipment Failure,0,0,None
+Delhi,Urban,Fog,1123.9875638817398,22,Transformer Failure,Lightning Strike,1,438,High
+Mumbai,Urban,Clear,245.8045516929135,143,Transformer Failure,Tree Falling on Line,0,0,None
+Chennai,Urban,Clear,208.64725352557016,411,Overload,Lightning Strike,0,0,None
+Kolkata,Urban,Rain,242.00945130685145,400,Line Tripping,Human Error,0,0,None
+Mumbai,Rural,Clear,910.0432066171228,121,Line Tripping,Tree Falling on Line,0,0,None
+Mumbai,Urban,Rain,1140.9603573282823,77,Overload,Animal Interference,0,0,None
+Kolkata,Urban,Clear,1234.4224292718495,11,Short Circuit,Overload,0,0,None
+Hyderabad,Urban,Clear,983.9915886533759,22,Equipment Failure,Tree Falling on Line,1,375,High
+Mumbai,Rural,Clear,370.2239220591018,132,Overload,Lightning Strike,1,0,None
+Bangalore,Urban,Thunderstorm,918.4738694330382,132,Overload,Equipment Failure,1,33,Low
+Delhi,Rural,Rain,210.35668069416337,33,Line Tripping,Animal Interference,1,5,None
+Bangalore,Urban,Clear,218.48943570441776,209,Equipment Failure,Animal Interference,0,0,None
+Kolkata,Urban,Clear,407.87282449633415,132,Overload,Equipment Failure,0,0,None
+Chennai,Urban,Fog,333.8715603700256,400,Transformer Failure,Overload,0,0,None
+Kolkata,Urban,Extreme Heat,267.4525768153161,121,Transformer Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Clear,1128.3642490856023,400,Line Tripping,Tree Falling on Line,0,0,None
+Hyderabad,Urban,Clear,371.4948009784801,121,Overload,Equipment Failure,0,0,None
+Hyderabad,Urban,Clear,1121.9575975834562,22,Short Circuit,Human Error,1,586,High
+Delhi,Urban,Rain,1288.6923198895477,411,Equipment Failure,Human Error,1,28,None
+Delhi,Urban,Rain,252.7290248038288,22,Transformer Failure,Tree Falling on Line,0,0,None
+Delhi,Urban,Rain,1308.9396404055094,209,Overload,Human Error,0,0,None
+Bangalore,Urban,Thunderstorm,292.68095984489986,44,Overload,Tree Falling on Line,1,459,High
+Chennai,Rural,Rain,885.425455669567,33,Transformer Failure,Lightning Strike,0,0,None
+Hyderabad,Urban,Clear,383.4731431043676,11,Equipment Failure,Lightning Strike,0,0,None
+Delhi,Rural,Thunderstorm,931.9368587487368,66,Equipment Failure,Equipment Failure,0,0,None
+Delhi,Urban,Clear,300.7735122707087,209,Short Circuit,Lightning Strike,1,561,High
+Hyderabad,Urban,Rain,219.3993228913029,220,Line Tripping,Overload,0,0,None
+Chennai,Urban,Rain,217.5203416090099,66,Transformer Failure,Equipment Failure,0,0,None
+Bangalore,Rural,Clear,380.2650666384432,0,Overload,Overload,0,0,None
+Delhi,Urban,Rain,336.1581190327257,389,Equipment Failure,Lightning Strike,0,0,None
